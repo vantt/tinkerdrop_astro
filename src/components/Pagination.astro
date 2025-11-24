@@ -1,0 +1,101 @@
+---
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  baseUrl?: string;
+}
+
+const { currentPage, totalPages, baseUrl = "/" } = Astro.props;
+
+// Generate page numbers to display
+const generatePageNumbers = () => {
+  const pages: (number | string)[] = [];
+
+  if (totalPages <= 5) {
+    // Show all pages if 5 or fewer
+    for (let i = 1; i <= totalPages; i++) {
+      pages.push(i);
+    }
+  } else {
+    // Always show first page
+    pages.push(1);
+
+    if (currentPage > 3) {
+      pages.push("...");
+    }
+
+    // Show pages around current page
+    for (
+      let i = Math.max(2, currentPage - 1);
+      i <= Math.min(totalPages - 1, currentPage + 1);
+      i++
+    ) {
+      pages.push(i);
+    }
+
+    if (currentPage < totalPages - 2) {
+      pages.push("...");
+    }
+
+    // Always show last page
+    pages.push(totalPages);
+  }
+
+  return pages;
+};
+
+const pageNumbers = generatePageNumbers();
+const hasNext = currentPage < totalPages;
+const hasPrev = currentPage > 1;
+
+const getPageUrl = (page: number) => {
+  return page === 1 ? baseUrl : `${baseUrl}${page}`;
+};
+---
+
+<nav
+  class="flex justify-center items-center gap-2 my-12"
+  aria-label="Pagination"
+>
+  {
+    hasPrev && (
+      <a
+        href={getPageUrl(currentPage - 1)}
+        class="px-3 py-2 text-sm font-medium text-muted-foreground hover:text-primary transition-colors"
+      >
+        Previous
+      </a>
+    )
+  }
+
+  {
+    pageNumbers.map((page) =>
+      typeof page === "number" ? (
+        <a
+          href={getPageUrl(page)}
+          class={`px-3 py-2 text-sm font-medium rounded transition-colors ${
+            page === currentPage
+              ? "bg-primary text-white"
+              : "text-muted-foreground hover:text-primary"
+          }`}
+          aria-current={page === currentPage ? "page" : undefined}
+        >
+          {page}
+        </a>
+      ) : (
+        <span class="px-3 py-2 text-sm text-muted-foreground">{page}</span>
+      )
+    )
+  }
+
+  {
+    hasNext && (
+      <a
+        href={getPageUrl(currentPage + 1)}
+        class="px-3 py-2 text-sm font-medium text-muted-foreground hover:text-primary transition-colors"
+      >
+        Next →
+      </a>
+    )
+  }
+</nav>
