@@ -1,0 +1,64 @@
+/* Customizing Pagefind UI to match the theme */
+:root {
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: #000000;
+  --pagefind-ui-text: #374151;
+  --pagefind-ui-background: #ffffff;
+  --pagefind-ui-border: #e5e7eb;
+  --pagefind-ui-tag: #f3f4f6;
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 0.5rem;
+  --pagefind-ui-image-border-radius: 0.5rem;
+  --pagefind-ui-image-box-ratio: 1.5;
+  --pagefind-ui-font: sans-serif;
+}
+
+#search .pagefind-ui__search-input {
+  width: 100%;
+  border-radius: 0.5rem;
+  border: 1px solid #d1d5db;
+  background-color: #f9fafb;
+  padding: 0.75rem 1rem;
+  color: #111827;
+  font-weight: normal;
+  position: relative;
+  z-index: 1001; /* Ensure input is above everything */
+  pointer-events: auto !important; /* Force pointer events */
+}
+
+#search .pagefind-ui__search-input:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+  border-color: #000000;
+  box-shadow: 0 0 0 1px #000000;
+}
+
+#search .pagefind-ui__drawer {
+  margin-top: 1rem;
+  max-height: 60vh;
+  overflow-y: auto;
+  pointer-events: auto !important;
+}
+
+#search .pagefind-ui__result {
+  border-bottom: 1px solid #f3f4f6;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+#search .pagefind-ui__result:last-child {
+  border-bottom: none;
+}
+
+#search .pagefind-ui__result-thumb {
+  display: none; /* Hide thumbs for cleaner look if desired, or keep them */
+}
+
+/* Ensure the modal container allows pointer events */
+#search-modal {
+  z-index: 9999; /* Very high z-index */
+}
+
+#search-modal .bg-white {
+  pointer-events: auto;
+}

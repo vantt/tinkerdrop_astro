@@ -1,0 +1,96 @@
+---
+import "@pagefind/default-ui/css/ui.css";
+import "../styles/pagefind.css";
+---
+
+<div
+  id="search-modal"
+  class="fixed inset-0 z-50 hidden bg-gray-900/50 backdrop-blur-sm transition-opacity"
+  aria-hidden="true"
+>
+  <div
+    class="fixed inset-0 flex items-start justify-center pt-16 sm:pt-24"
+    id="search-backdrop"
+  >
+    <div
+      class="w-full max-w-2xl transform overflow-hidden rounded-xl bg-white p-6 shadow-2xl transition-all mx-4"
+    >
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-lg font-semibold text-gray-900">Search</h2>
+        <button
+          id="close-search"
+          class="rounded-lg p-1 text-gray-400 hover:bg-gray-100 hover:text-gray-500"
+        >
+          <span class="sr-only">Close search</span>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="h-6 w-6"
+          >
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+      <div id="search" class="search-container"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+  import { PagefindUI } from "@pagefind/default-ui";
+
+  // Initialize Pagefind
+  window.addEventListener("DOMContentLoaded", (event) => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      showImages: false,
+    });
+  });
+
+  // Modal Logic
+  const searchModal = document.getElementById("search-modal");
+  const closeBtn = document.getElementById("close-search");
+  const backdrop = document.getElementById("search-backdrop");
+
+  function openSearch() {
+    searchModal?.classList.remove("hidden");
+    // Focus input if available after a short delay for Pagefind to render
+    setTimeout(() => {
+      const input = document.querySelector("#search input");
+      if (input instanceof HTMLElement) input.focus();
+    }, 100);
+  }
+
+  function closeSearch() {
+    searchModal?.classList.add("hidden");
+  }
+
+  // Listen for custom open event
+  window.addEventListener("open-search", openSearch);
+
+  // Close events
+  closeBtn?.addEventListener("click", closeSearch);
+
+  // Close on backdrop click (but not on modal content)
+  backdrop?.addEventListener("click", (e) => {
+    if (e.target === backdrop) {
+      closeSearch();
+    }
+  });
+
+  // Close on Escape key
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !searchModal?.classList.contains("hidden")) {
+      closeSearch();
+    }
+  });
+</script>

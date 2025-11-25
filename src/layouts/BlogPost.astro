@@ -18,7 +18,7 @@ const isLocalImage = heroImage && typeof heroImage !== "string";
 <Layout title={title} description={description}>
   <Header />
   <main class="w-full max-w-[768px] mx-auto pb-12">
-    <article class="article">
+    <article class="article" data-pagefind-body>
       {
         heroImage &&
           (isLocalImage ? (
@@ -40,6 +40,7 @@ const isLocalImage = heroImage && typeof heroImage !== "string";
       <div class="mb-8">
         <h1
           class="text-4xl md:text-5xl font-bold tracking-tight mb-4 text-gray-900 leading-tight"
+          data-pagefind-meta="title"
         >
           {title}
         </h1>
