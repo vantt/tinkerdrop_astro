@@ -10,6 +10,8 @@
     "scrape:tinkerdrop": "node scripts/scrape-tinkerdrop.js"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.14",
+    "@fontsource/inter": "^5.2.8",
     "@tailwindcss/vite": "^4.1.17",
     "astro": "^5.16.0",
     "cheerio": "^1.1.2",
