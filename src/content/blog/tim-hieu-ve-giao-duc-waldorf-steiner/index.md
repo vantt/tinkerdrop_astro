@@ -1,8 +1,10 @@
 ---
 title: "Tìm hiểu về Giáo Dục Waldorf Steiner"
 description: "Tự nhìn bản thân và thế giới xung quanh, mọi thứ thay đổi quá nhanh, rất rất nhiều người trong độ tuổi 40, 50 không biết mình sẽ phải làm gì trước sự thay đổi"
-pubDate: "2025-11-25T01:29:48.808Z"
+pubDate: "2019-01-06T15:34:04.000Z"
+updatedDate: "2021-08-25T15:34:04.000Z"
 heroImage: "./FB_IMG_1531497842970.jpg"
+tags: ["Học", "Học chơi với con", "Học lập trình"]
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/tim-hieu-ve-giao-duc-steiner#respond) / [Học](https://tinkerdrop.com/learn), [Học chơi với con](https://tinkerdrop.com/learn/hoc-choi-voi-con) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
@@ -103,91 +105,22 @@ _Ví dụ: 02 người thợ cùng có khả năng đóng 5 cái bàn trong 5 ng
 - Mình tin và cảm được năng lực của những thầy cô dạy Steiner mà mình được tiếp xúc.
 - Steiner biết rõ ở mỗi độ tuổi cần làm gì về thể chất và tâm hồn cho trẻ. Steiner có khái niệm AgeWise (ở mỗi lứa tuổi trẻ sẽ có một sự phát triển và sự thông thái nhất định, nên phải giáo dục phù hợp từ môn học tới trò chơi và vận động)
 
-Xem thêm:  
-[https://www.thoughtco.com/what-is-a-waldorf-school-2774757](https://www.thoughtco.com/what-is-a-waldorf-school-2774757)  
-[http://www.michaelolaf.net/MONTESSORI%20and%20WALDORF.html](http://www.michaelolaf.net/MONTESSORI%20and%20WALDORF.html)
+Xem thêm:<br>[https://www.thoughtco.com/what-is-a-waldorf-school-2774757](https://www.thoughtco.com/what-is-a-waldorf-school-2774757)<br>[http://www.michaelolaf.net/MONTESSORI%20and%20WALDORF.html](http://www.michaelolaf.net/MONTESSORI%20and%20WALDORF.html)
 
 ## Steiner vs Montessori
 
-**Montessori**
+- https://www.thoughtco.com/how-does-montessori-compare-with-waldorf-2774232
 
-**Waldorf Steiner**
-
-Founder
-
-[Dr. Maria Montessori](https://www.thoughtco.com/maria-montessori-founder-of-montessori-schools-2774182) (1870-1952)
-
-[Rudolf Steiner](http://www.rudolfsteinerweb.com/) (1861-1925)
-
-First School
-
-1907 Rome – Italy
-
-Casa dei Bambini, a “house of children”,
-
-1919, Stuttgart –  Germany
-
-Waldorf Astoria Cigarette Company
-
-Teaching Style
-
-- Student-directed, teacher follow student
-- Academic subjects are introduced early
-- non-traditional methods of assessments
-- focus on the child’s potential and growth, rather than on the accomplishments
-
-- Teacher-directed
-- Academic subjects are not introduced to children until an age
-- math, reading, and writing – are viewed as not the most enjoyable learning experiences
-- Encourage playing, imagination, art, music activities
-- non-traditional methods of assessments
-- focus on the child’s potential and growth, rather than on the accomplishments
-
-Spirituality
-
-- No.
-- Flexible and adaptable to individual needs and beliefs.
-
-Rooted in Anthroposophy (To understand the universe, first must understand humanity)
-
-Learning Activities
-
-- Respect  a child’s need for rhythm and order in his daily routine
-- Believe in a hands-on as well as an intellectual approach
-- Toys should teach concepts
-- Using pre-designed & approved toys
-- Strong sense of societal reform
-- Avoid violence, build a better world
-- 6 years cycle
-
-- Respect a child’s need for rhythm and order in his daily routine
-- Believe in a hands-on as well as an intellectual approach
-- **Imagination** is the child’s most important ‘work’
-- Encourages the child **to create own toys with materials at hand** (Bàn tay ta làm nên tất cả)
-- Strong sense of societal reform
-- Avoid violence, build a better world
-- non-traditional methods of assessments
-- 7 years cycle
-
-Use of Computers and TV
-
-Leave to parents
-
-- Very rigid about **not wanting young people exposed to popular media**.
-- Waldorf wants children **to create their own worlds**
-- Watching TV **blocks children to copy, not to create**
-- Place a premium on fantasy/imagination in the early years
-- Only allow computers on upper school grade (7 grade or latter)
-
-Adherence to Methodology
-
-There is **no standard.**
-
-There are **many flavors** of Montessori
-
-Stick pretty **close to standards** set out by the Waldorf Association.
-
-https://www.thoughtco.com/how-does-montessori-compare-with-waldorf-2774232
+|                          | **Montessori**                                                                                                                                                                                                                                                                                                    | **Waldorf Steiner**                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Founder                  | [Dr. Maria Montessori](https://www.thoughtco.com/maria-montessori-founder-of-montessori-schools-2774182) (1870-1952)                                                                                                                                                                                              | [Rudolf Steiner](http://www.rudolfsteinerweb.com/) (1861-1925)                                                                                                                                                                                                                                                                                                                                                                                    |
+| First School             | 1907 Rome – Italy Casa dei Bambini, a “house of children”,                                                                                                                                                                                                                                                        | 1919, Stuttgart –  Germany Waldorf Astoria Cigarette Company                                                                                                                                                                                                                                                                                                                                                                                      |
+| Teaching Style           | • Student-directed, teacher follow student<br>• Academic subjects are introduced early<br>• non-traditional methods of assessments<br>• focus on the child’s potential and growth, rather than on the accomplishments<br>                                                                                         | • Teacher-directed<br>• Academic subjects are not introduced to children until an age<br>• math, reading, and writing – are viewed as not the most enjoyable learning experiences<br>• Encourage playing, imagination, art, music activities<br>• non-traditional methods of assessments<br>• focus on the child’s potential and growth, rather than on the accomplishments<br>                                                                   |
+| Spirituality             | • No.<br>• Flexible and adaptable to individual needs and beliefs.<br>                                                                                                                                                                                                                                            | Rooted in Anthroposophy (To understand the universe, first must understand humanity)                                                                                                                                                                                                                                                                                                                                                              |
+| Learning Activities      | • Respect  a child’s need for rhythm and order in his daily routine<br>• Believe in a hands-on as well as an intellectual approach<br>• Toys should teach concepts<br>• Using pre-designed & approved toys<br>• Strong sense of societal reform<br>• Avoid violence, build a better world<br>• 6 years cycle<br>  | • Respect a child’s need for rhythm and order in his daily routine<br>• Believe in a hands-on as well as an intellectual approach<br>• **Imagination** is the child’s most important ‘work’<br>• Encourages the child **to create own toys with materials at hand** (Bàn tay ta làm nên tất cả)<br>• Strong sense of societal reform<br>• Avoid violence, build a better world<br>• non-traditional methods of assessments<br>• 7 years cycle<br> |
+| Use of Computers and TV  | Leave to parents                                                                                                                                                                                                                                                                                                  | • Very rigid about **not wanting young people exposed to popular media**.<br>• Waldorf wants children **to create their own worlds**<br>• Watching TV **blocks children to copy, not to create**<br>• Place a premium on fantasy/imagination in the early years<br>• Only allow computers on upper school grade (7 grade or latter)<br>                                                                                                           |
+| Adherence to Methodology | There is **no standard.** There are **many flavors** of Montessori                                                                                                                                                                                                                                                | Stick pretty **close to standards** set out by the Waldorf Association.                                                                                                                                                                                                                                                                                                                                                                           |
+|                          |                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 ## Tại sao chọn Tre Xanh
 
@@ -198,7 +131,7 @@ https://www.thoughtco.com/how-does-montessori-compare-with-waldorf-2774232
 - Tận dụng độ tuổi thích hợp cho con. Với Waldorf Steiner càng nhỏ càng học càng tốt. Để nó già hơn là không thấm nhuần được tinh hoa. Vì không tận dụng được Age-Wise
 - Vì bạn lớn lớp 4 đang có vấn đề với phương pháp giáo dục truyền thống
 
-[Facebook của trường](https://www.facebook.com/Ti%E1%BB%83u-h%E1%BB%8Dc-Tre-Xanh-HomeSchooling-2245538015763319/)
+[Facebook của trường Tre Xanh](https://www.facebook.com/trexanh.kindergarten)
 
 ## Sách tìm hiểu về Waldorf Steiner:
 
@@ -210,8 +143,8 @@ https://www.thoughtco.com/how-does-montessori-compare-with-waldorf-2774232
 
 **Không**, vì ông này sáng lập một môn gọi là Anthroposophy, nó nghiên cứu sự phát triển về thể chất và tâm hồn con người,  môn này kết hợp nhiều yếu tố về spiritual nên nhiều người lầm tưởng. Mình đã từng e dè một người Việt học Steiner và quá cuồng về Anthroposophy, nhưng sau khi gặp gỡ những người trực tiếp giảng  dạy, mình nhận thấy nó chỉ là những ritual cần thiết giúp cho trẻ tốt hơn.
 
-[https://www.rudolfsteinerweb.com/Rudolf_Steiner_and_Religion.php](https://www.rudolfsteinerweb.com/Rudolf_Steiner_and_Religion.php)  
-[https://en.wikipedia.org/wiki/Anthroposophy](https://en.wikipedia.org/wiki/Anthroposophy)
+- [https://www.rudolfsteinerweb.com/Rudolf_Steiner_and_Religion.php](https://www.rudolfsteinerweb.com/Rudolf_Steiner_and_Religion.php)
+- [https://en.wikipedia.org/wiki/Anthroposophy](https://en.wikipedia.org/wiki/Anthroposophy)
 
 #### What are the origins of the anti-technology approach of the Waldorf Steiner Education?
 
@@ -223,10 +156,10 @@ Cho nên sự hào nhoáng của công nghệ cũng như các pre-boxed product/
 
 ## Inspirational Movies
 
-https://www.youtube.com/watch?v=B-ZSeepDmPE
+https://youtu.be/B-ZSeepDmPE
 
-https://www.youtube.com/watch?v=BkrgkslnD9g
+https://youtu.be/BkrgkslnD9g
 
-https://www.youtube.com/watch?v=wfec6eF4I_4
+https://youtu.be/wfec6eF4I_4
 
-https://www.youtube.com/watch?v=tZmAX5adCl0
+https://youtu.be/tZmAX5adCl0

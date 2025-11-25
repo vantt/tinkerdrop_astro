@@ -1,8 +1,10 @@
 ---
 title: "Kẻ ” Thích Đủ Thứ “"
 description: "Chợt đi ngang nhà người ta, đọc được đoạn giới thiệu thấy thích quá chừng."
-pubDate: "2025-11-25T01:29:49.544Z"
+pubDate: "2019-01-03T17:00:00.000Z"
+updatedDate: "2019-07-08T17:00:00.000Z"
 heroImage: "./cristina-gottardi-285467-unsplash.jpg"
+tags: ["Học yêu bản thân"]
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/ke-thich-du-thu#respond) / [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
