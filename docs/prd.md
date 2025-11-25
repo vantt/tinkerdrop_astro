@@ -18,6 +18,12 @@ The design features a clean, minimal aesthetic with the "Inter" font, a centered
 
 - Install `@astrojs/tailwind` and `tailwindcss`.
 
+#### [NEW] YouTube Auto-Embed Plugin
+
+- Custom Remark plugin (`src/plugins/remark-youtube.js`).
+- Automatically converts YouTube URLs (on their own line) into responsive iframes.
+- No manual HTML/CSS required for embedding.
+
 #### [NEW] `src/pages/blog/[...slug].astro`
 
 - Dynamic route for rendering blog posts.

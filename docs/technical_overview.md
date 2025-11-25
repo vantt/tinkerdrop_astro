@@ -13,6 +13,15 @@ The website is a static site generated (SSG) using Astro. It leverages **Content
 - **Content Source**: Markdown files in `src/content/blog/`
 - **Build Output**: Static HTML/CSS/JS
 
+### Markdown Plugins
+
+The system uses custom Remark plugins to enhance Markdown rendering:
+
+- **`remark-youtube`**:
+  - **Source**: `src/plugins/remark-youtube.js`
+  - **Function**: Automatically detects YouTube URLs on their own lines and converts them into responsive embedded video players.
+  - **Implementation**: Visits paragraph nodes, checks for YouTube URL patterns, and replaces the node with an HTML `<iframe>` wrapped in a responsive container.
+
 ## Project Structure
 
 The project follows a standard Astro project structure:
