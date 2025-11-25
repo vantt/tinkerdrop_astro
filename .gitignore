@@ -3,6 +3,10 @@ dist/
 
 # generated types
 .astro/
+.vercel/
+
+# generated search index (for dev mode)
+public/pagefind/
 
 # dependencies
 node_modules/
@@ -24,5 +28,3 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
-# generated search index (for dev mode)
-public/pagefind/

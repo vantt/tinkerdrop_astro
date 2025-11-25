@@ -1,23 +1,25 @@
 // @ts-check
-import { defineConfig } from 'astro/config';
+import { defineConfig } from "astro/config";
 
-import tailwindcss from '@tailwindcss/vite';
+import tailwindcss from "@tailwindcss/vite";
+import vercel from "@astrojs/vercel";
 
-import { remarkYoutube } from './src/plugins/remark-youtube.js';
+import { remarkYoutube } from "./src/plugins/remark-youtube.js";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://tinkerdrop.com',
+  site: "https://tinkerdrop.com",
+  adapter: vercel(),
   image: {
     // Enable image optimization
     service: {
-      entrypoint: 'astro/assets/services/sharp'
-    }
+      entrypoint: "astro/assets/services/sharp",
+    },
   },
   markdown: {
     remarkPlugins: [remarkYoutube],
   },
   vite: {
-    plugins: [tailwindcss()]
-  }
+    plugins: [tailwindcss()],
+  },
 });
