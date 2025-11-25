@@ -1,8 +1,10 @@
 ---
 title: "Sẽ không có lần thứ 2"
 description: "Rất ít kỳ quan thế giới có thể hiện rõ trong tâm trí con người mặc dù họ chưa một lần ghé thăm."
-pubDate: "2025-11-25T01:29:45.329Z"
+pubDate: "2019-01-11T17:00:00.000Z"
+updatedDate: "2019-01-11T17:00:00.000Z"
 heroImage: "./robert-bye-13761-unsplash-scaled.jpg"
+tags: ["Học", "Học yêu bản thân"]
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/se-khong-co-lan-thu-2#respond) / [Học](https://tinkerdrop.com/learn), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
@@ -54,4 +56,4 @@ Chỉ khi nào hiểu rõ giá trị của mình, tôi mới có thể kể về
 
 _( Tôi chưa từng có mặt tại đây,  nhưng Golden Bridge hiện rõ trong tâm trí tôi thông qua chất liệu của Bernadette Jiwa, tác giả mà tôi yêu thích. )_
 
-![](./Z)
+![Sẽ không có lần thứ 2](./se-khong-co-lan-2.jpg)

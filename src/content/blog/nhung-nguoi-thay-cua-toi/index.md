@@ -1,8 +1,10 @@
 ---
 title: "Những Người Thầy Của Tôi"
 description: "Trong dân gian có từ Đạo Sư."
-pubDate: "2025-11-25T01:29:44.220Z"
+pubDate: "2019-04-22T17:00:00.000Z"
+updatedDate: "2019-07-07T17:00:00.000Z"
 heroImage: "./samuel-austin-438854-unsplash.jpg"
+tags: ["Học", "Học yêu bản thân"]
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/nhung-nguoi-thay-cua-toi#respond) / [Học](https://tinkerdrop.com/learn), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
@@ -25,12 +27,12 @@ Dưới đây là vài trong số những Đạo Sư của tôi. Có nhiều ng�
 
 Tôi không là Phật tử, cũng chưa có ý định quy y. Tôi cũng chỉ hữu duyên được chạm đến những lời dạy của ngài. Đức Phật là một người thầy của nhân loại, là người đã để lại cho chúng ta nhiều sự thật, nhiều phương pháp tu chỉnh thân tâm mà tôi luôn coi là kim chỉ Nam của mình:
 
-*   Quy luật Nhân quả
-*   Giới – Định – Tuệ,  ba giá trị cốt lõi của đời người
-*   Phật – Pháp – Tăng, ba báo vật lớn nhất của đời người (thầy giỏi, bạn tốt và sách hay)
-*   Văn – Tư – Tu, phương pháp học hữu hiệu nhất.
+- Quy luật Nhân quả
+- Giới – Định – Tuệ,  ba giá trị cốt lõi của đời người
+- Phật – Pháp – Tăng, ba báo vật lớn nhất của đời người (thầy giỏi, bạn tốt và sách hay)
+- Văn – Tư – Tu, phương pháp học hữu hiệu nhất.
 
-![](./yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![Đức Phật Thích Ca](./duc-phat.jpg)
 
 ### Hòa thượng Tịnh Không
 
@@ -38,27 +40,21 @@ Tôi có duyên được nghe nhiều bài pháp của ngài. Nhưng tôi nghĩ 
 
 Nghe hòa thượng thuyết giảng, tôi được biết khá nhiều đến lời dạy của Phật mà sau này trở thành nguyên tắc sống và là kim chỉ Nam cuộc đời tôi.
 
-![](./Z)
+![Hòa thượng Tịnh Không](./hoa-thuong-tinh-khong.jpg)
 
 ### Thầy Trần Việt Quân
 
-Tôi hay gọi vui với bạn bè thầy là ông giáo làng. Một thầy giáo làng Việt Nam chính hiệu. Thầy là đồng sáng lập hệ thống trường Pathway Tuệ Đức.  Một ông giáo làng nhưng lại có những phân tích và giảng dạy các bài học lớn của thế giới một cách rất hợp logic và dễ hiểu, dễ nhớ, đặc biệt là Phật học.
-
-Bí quyết của thầy là **_Tư Duy Theo Nhân Quả._**
-
-Thầy là người giúp tôi có cái nhìn hệ thống về những lời Phật Dạy.  
-Thầy là người khai ngộ cho tôi hiểu thế nào là Tư Duy Nhân Quả.  
-Nhờ thầy tôi có được bộ câu hỏi  đơn giản và cao siêu nhất tôi từng dùng: **_Câu Hỏi Nhân Quả._**
+Tôi hay gọi vui với bạn bè thầy là ông giáo làng. Một thầy giáo làng Việt Nam chính hiệu. Thầy là đồng sáng lập hệ thống trường Pathway Tuệ Đức. Thầy là người giúp tôi có cái nhìn hệ thống về những lời Phật Dạy. Thầy là người khai ngộ cho tôi hiểu thế nào là Tư Duy Theo Nhân Quả. Thầy là người dạy tôi có được bộ câu hỏi đơn giản và cao siêu nhất tôi từng dùng: **_Câu Hỏi Nhân Quả._**
 
 Thầy luôn nhắn nhủ với mọi người:
 
-*   Nhân Quả là quy luật chi phối vũ trụ
-*   Không gì qua được cái Nhân là chính mình
-*   Giới Định Tuệ là năng lực lớn nhất đời người
-*   Phật Pháp Tăng là bảo vật quý nhất thế gian
-*   Văn-Tư-Tu là phương pháp học tuyệt vời nhất
+- Nhân Quả là quy luật chi phối vũ trụ
+- Không gì qua được cái Nhân là chính mình
+- Giới Định Tuệ là năng lực lớn nhất đời người
+- Phật Pháp Tăng là bảo vật quý nhất thế gian
+- Văn-Tư-Tu là phương pháp học tuyệt vời nhất
 
-![](./yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![Thầy Trần Việt Quân](./thay-tran-viet-quan.jpg)
 
 ### Cô Nguyễn Đoàn Kim Sơn
 
@@ -69,10 +65,10 @@ Nếu như thầy Quân là người còn nhiều hoài bão và suy tư, cô l�
 Hơn một năm sau tôi mới được học cô trọn một ngày, nhưng cô lại cho tôi cái nhìn rất sâu sắc về _**mục tiêu của việc đi học**_.
 
 > Mục tiêu cao nhất của việc học là để hiểu được nhu cầu chính đáng của người khác.
-> 
+>
 > Chỉ khi nào đem được hạnh phúc chính đáng cho người khác, khi đó bản thân ta mới thật sự hạnh phúc.
 
-![](./Z)
+![Cô Nguyễn Đoàn Kim Sơn](./co-nguyen-dao-kim-son.jpg)
 
 ### Shane Parrish – Farnamstreet
 
@@ -86,18 +82,19 @@ Tôi biết đến quy luật Nhân Quả theo cách tiếp cận của phương
 
 Và cuối cùng Farnamstreet giúp tôi hoàn tất một phát thảo đầu tiên về thế giới quan của chính mình.
 
-![](./2Q==)
+![Shane Parrish](./shane-parrish-farnamstreet.jpg)
 
 ### Kamal Ravikant
 
 What is the truth in this situation
 
-### ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACKUExURcnI0DY0RCMjK5+FfzAvPS0rOCcmMMTDyzo5ScbGzjQxMQ4PEzAtLEI9PFdOTWhOR044NF1caEA/SkExLklDQhsZHEFCU1NTYm5lZVVFQjs3NUZGVUxNXYJ8g3BufYRlW5CKjpaUoTcpJ6GepId0crOvtMqrobu4wWlZVJNqX9O2r3VYULCXj7W0u6ryyzIAAAEMSURBVBjTRc7ZkoMgEEBRdhEFBBQl7lvW+f/vGzTJzK3ql1NdDSD5tk9bM22mFBcJTkjjrA3GfaOkyEuQfkom/Hziu8wFuvzjiq/XTck89ofpDeNRh1KKy7kJjpL9igsdghTlgeCLYzHeg8sjfkvWn1ehdXCLLD9y2+ceP4qYU6qJME9DbaE1eCucK7RSPUh7QhhilHI1aufcIuLmrYUnMibDqJeqOnDlnEShiNlmfOglF1IAA3lcpRT5bu51yKssywAnbyS1n4fSWlRVGYCUc0gp6zraD2aArGVv5PEDradmGDiv64iUnYhaT2xNiDEHMna8RGDnCaKEd3UbbyIGYbzZmZZDy723tMp+AdAJFgPJujvMAAAAAElFTkSuQmCC)  
-Naval Ravikant
+![Kamal Ravikant](./kamal-ravikant.png)
+
+### Naval Ravikant
 
 …
 
-![](./ARhrEZ+hr+2Y5TavtCZjWi46cWCfdXdOj3MrcOH7jLZB5KbDmXmU3+ws1xI1Ybf+LrTGH1a1trc3OxrBStF8tvFiE3XUxnIlIqWIA3PEUF7HW0KCcAAAAASUVORK5CYII=)  
+![Naval Ravikant](./naval-ravikant.png)  
 Alfred Adler (Life has no purpose)  
 Seth Godin/Bernadette Jiwa (Marketing can make change)  
 Garry Keller (The Focus Question)

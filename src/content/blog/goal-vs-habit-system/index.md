@@ -1,8 +1,10 @@
 ---
 title: "Goal vs Habit (System)"
 description: "It’s like setting a goal to lose 10 pounds and falling back to old habits after reaching it. Compared to making a lifestyle of eating healthy and exercise"
-pubDate: "2025-11-25T01:29:44.779Z"
+pubDate: "2019-02-13T17:00:00.000Z"
+updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./IMG_8147-236-scaled.jpg"
+tags: ["Conquer the Mind", "Học", "Học yêu bản thân", "Sharpen the Body"]
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/goal-vs-habit-system#respond) / [Conquer the Mind](https://tinkerdrop.com/mastery/conquer-mind), [Học](https://tinkerdrop.com/learn), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than), [Sharpen the Body](https://tinkerdrop.com/mastery/sharpen-body) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
@@ -15,7 +17,9 @@ It’s like setting a goal to lose 10 pounds and falling back to old habits afte
 This way you actually don’t need that goal,  
 you will reach the result no matter if you have the goal or not.
 
-* * *
+---
+
+.
 
 There is no way to happiness, happiness is the way.  
 Success is a journey, not a destination.
