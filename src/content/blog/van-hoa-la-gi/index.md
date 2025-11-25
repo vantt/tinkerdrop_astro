@@ -5,6 +5,7 @@ pubDate: "2019-04-25T17:00:00.000Z"
 updatedDate: "2019-04-28T17:00:00.000Z"
 heroImage: "./oriento-742749-unsplash.jpg"
 tags: ["Học", "Học yêu bản thân"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/van-hoa-la-gi#respond) / [Học](https://tinkerdrop.com/learn), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

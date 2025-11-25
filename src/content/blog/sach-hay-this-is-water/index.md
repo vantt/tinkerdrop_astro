@@ -1,13 +1,16 @@
 ---
 title: "Sách Hay: This is Water"
 description: "Có hai chàng cá đang bơi tung tăng thì gặp một cụ cá bơi ngang qua. Cụ nháy mắt cười và hỏi thăm: \"How's the water?\". Các chàng cứ thế bơi một quảng và đột"
-pubDate: "2025-11-25T01:29:36.295Z"
+pubDate: "2019-07-09T17:00:00.000Z"
+updatedDate: "2021-09-09T17:00:00.000Z"
 heroImage: "./sora-sagano-103742-unsplash-scaled.jpg"
+tags: ["Học yêu bản thân", "Conquer the Mind", "Học quyết định", "Sách Hay"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/sach-hay-this-is-water#respond) / [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than), [Conquer the Mind](https://tinkerdrop.com/mastery/conquer-mind), [Học quyết định](https://tinkerdrop.com/learn/hoc-quyet-dinh), [Sách Hay](https://tinkerdrop.com/sach-hay) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
-![](./1_uoQIdBLZvy1Y_edZD9Gxig.jpeg)
+![](./2Q==)
 
 Có hai chàng cá đang bơi tung tăng thì gặp một cụ cá bơi ngang qua. Cụ nháy mắt cười và hỏi thăm: **“How’s the water?”**. Các chàng cứ thế bơi một quảng và đột nhiên băn khoăn: **“Thế nước là cái quái gì nhỉ?”**
 
@@ -23,4 +26,4 @@ Bởi tất cả những điều quan trọng luôn bị che lấp bới những
 
 Hôm nay bạn thở thế nào?
 
-[![](./66505614_10156163147626246_8607515344841474048_o.jpg)](https://www.amazon.com/This-Water-Delivered-Significant-Compassionate-ebook/dp/B0023SDQZS)
+[![](./9k=)](https://www.amazon.com/This-Water-Delivered-Significant-Compassionate-ebook/dp/B0023SDQZS)

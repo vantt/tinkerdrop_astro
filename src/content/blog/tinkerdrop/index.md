@@ -2,6 +2,7 @@
 title: "tinkerDrop"
 description: "This is Water"
 pubDate: "2025-11-24T15:57:53.153Z"
+published: true
 ---
 
 [![](./FB_IMG_1531497842970-1024x685.jpg)](https://tinkerdrop.com/blog/tim-hieu-ve-giao-duc-steiner)

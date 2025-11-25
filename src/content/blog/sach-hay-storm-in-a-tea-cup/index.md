@@ -1,8 +1,11 @@
 ---
 title: "Sách Hay: Storm In A Tea Cup"
 description: "Bài học lớn nhất"
-pubDate: "2025-11-25T01:29:38.917Z"
+pubDate: "2019-07-05T17:00:00.000Z"
+updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./66463724_10156154037581246_913712691170770944_n.jpg"
+tags: ["Sách Hay"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/sach-hay-storm-in-a-tea-cup#respond) / [Sách Hay](https://tinkerdrop.com/sach-hay) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

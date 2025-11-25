@@ -1,8 +1,11 @@
 ---
 title: "Sách Hay: This is Marketing"
 description: "Tôi chưa hiểu năng lực thật sự của những người này là thế nào. Kỹ năng của họ là gì. Tôi chỉ thấy vài đồng đi ra thì có vài đồng trở lại. Và rồi tôi thấy cả"
-pubDate: "2025-11-25T01:29:34.257Z"
+pubDate: "2019-08-22T17:00:00.000Z"
+updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./66217087_10156160948971246_2062269551227174912_n.jpg"
+tags: ["Học kể truyện", "Refine the Craft", "Sách Hay"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/sach-hay-this-is-marketing#respond) / [Học kể truyện](https://tinkerdrop.com/learn/hoc-ke-truyen), [Refine the Craft](https://tinkerdrop.com/mastery/refine-craft), [Sách Hay](https://tinkerdrop.com/sach-hay) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

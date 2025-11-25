@@ -1,8 +1,11 @@
 ---
 title: "Make Life Simple"
 description: "__ on reading Your Life as Art, Robert Fritz"
-pubDate: "2025-11-25T01:29:33.612Z"
+pubDate: "2019-09-20T17:00:00.000Z"
+updatedDate: "2020-02-20T17:00:00.000Z"
 heroImage: "./kelly-sikkema-BwtFJgaUho-unsplash-scaled.jpg"
+tags: ["Conquer the Mind", "Học", "Học quyết định", "Học yêu bản thân", "Path to Mastery"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/make-life-simple#respond) / [Conquer the Mind](https://tinkerdrop.com/mastery/conquer-mind), [Học](https://tinkerdrop.com/learn), [Học quyết định](https://tinkerdrop.com/learn/hoc-quyet-dinh), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than), [Path to Mastery](https://tinkerdrop.com/mastery) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

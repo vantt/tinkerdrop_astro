@@ -1,8 +1,11 @@
 ---
 title: "Sách Hay: The Storytelling Animal – How Stories Make Us Human"
 description: "Đọc Homo Sapiens chỉ có cảm nhận con người duy trì được quần thể đông hơn con thú ở chổ thích bà tám, thích kể chuyện phím."
-pubDate: "2025-11-25T01:29:38.110Z"
+pubDate: "2019-07-06T17:00:00.000Z"
+updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./611xaOFeUbL.jpg"
+tags: ["Học kể truyện", "Refine the Craft", "Sách Hay"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/501#respond) / [Học kể truyện](https://tinkerdrop.com/learn/hoc-ke-truyen), [Refine the Craft](https://tinkerdrop.com/mastery/refine-craft), [Sách Hay](https://tinkerdrop.com/sach-hay) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

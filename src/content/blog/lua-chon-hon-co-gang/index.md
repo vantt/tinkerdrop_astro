@@ -1,8 +1,11 @@
 ---
 title: "Lựa Chọn hơn Cố Gắng"
 description: "KẾT QUẢ chỉ có thể tốt nếu MỤC TIÊU đề ra cũng tốt y như thế."
-pubDate: "2025-11-25T01:29:31.716Z"
+pubDate: "2019-10-13T17:00:00.000Z"
+updatedDate: "2020-02-17T17:00:00.000Z"
 heroImage: "./victoriano-izquierdo-JG35CpZLfVs-unsplash-scaled.jpg"
+tags: ["Conquer the Mind", "Học", "Học quyết định", "Học yêu bản thân", "Path to Mastery"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/lua-chon-hon-co-gang#respond) / [Conquer the Mind](https://tinkerdrop.com/mastery/conquer-mind), [Học](https://tinkerdrop.com/learn), [Học quyết định](https://tinkerdrop.com/learn/hoc-quyet-dinh), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than), [Path to Mastery](https://tinkerdrop.com/mastery) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

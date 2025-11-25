@@ -5,6 +5,7 @@ pubDate: "2019-01-05T17:00:00.000Z"
 updatedDate: "2019-08-22T08:41:37.000Z"
 heroImage: "./boy-child-field-1549974-scaled.jpg"
 tags: ["Học", "Học chơi với con", "Học lập trình"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/ngoi-truong-nao-cho-con#respond) / [Học](https://tinkerdrop.com/learn), [Học chơi với con](https://tinkerdrop.com/learn/hoc-choi-voi-con) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

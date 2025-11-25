@@ -12,6 +12,7 @@ const blog = defineCollection({
 		// Support both local images and remote URLs
 		heroImage: z.union([image(), z.string()]).optional(),
 		tags: z.array(z.string()).optional(),
+		published: z.boolean().default(false),
 	}),
 });
 

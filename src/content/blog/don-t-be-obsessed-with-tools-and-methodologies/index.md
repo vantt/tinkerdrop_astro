@@ -1,8 +1,11 @@
 ---
 title: "Don’t be obsessed with Tools and Methodologies"
 description: "Nhiều người dành cả đời tiềm kiếm cây đũa thần, một công cụ hoàn hảo giải quyết mọi vấn đề."
-pubDate: "2025-11-25T01:29:30.893Z"
+pubDate: "2020-02-27T17:00:00.000Z"
+updatedDate: "2021-02-10T17:00:00.000Z"
 heroImage: "./hammer-4773084_1280.jpg"
+tags: ["Học", "Học quyết định", "Path to Mastery", "Refine the Craft"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/dont-be-obsessed-with-tools-and-methodologies#respond) / [Học](https://tinkerdrop.com/learn), [Học quyết định](https://tinkerdrop.com/learn/hoc-quyet-dinh), [Path to Mastery](https://tinkerdrop.com/mastery), [Refine the Craft](https://tinkerdrop.com/mastery/refine-craft) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

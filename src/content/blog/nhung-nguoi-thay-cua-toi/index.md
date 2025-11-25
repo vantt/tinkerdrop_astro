@@ -5,6 +5,7 @@ pubDate: "2019-04-22T17:00:00.000Z"
 updatedDate: "2019-07-07T17:00:00.000Z"
 heroImage: "./samuel-austin-438854-unsplash.jpg"
 tags: ["Học", "Học yêu bản thân"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/nhung-nguoi-thay-cua-toi#respond) / [Học](https://tinkerdrop.com/learn), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

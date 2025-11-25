@@ -1,8 +1,11 @@
 ---
 title: "Parents do not raise children, NATURE DOES"
 description: "— on Reading ATMAMUN, Kapil Gupta"
-pubDate: "2025-11-25T01:29:39.406Z"
+pubDate: "2019-05-28T17:00:00.000Z"
+updatedDate: "2020-02-12T17:00:00.000Z"
 
+tags: ["Conquer the Mind", "Học", "Học chơi với con"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/parents-do-not-raise-children-nature-does#respond) / [Conquer the Mind](https://tinkerdrop.com/mastery/conquer-mind), [Học](https://tinkerdrop.com/learn), [Học chơi với con](https://tinkerdrop.com/learn/hoc-choi-voi-con) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

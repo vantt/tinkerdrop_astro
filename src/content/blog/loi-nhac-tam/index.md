@@ -1,8 +1,11 @@
 ---
 title: "Lời nhắc Tâm"
 description: "Là sự chấp chặt vào quan điểm nhận thức, tin vào điều mình chưa thấy rõ và bác bỏ điều mình chưa thông ."
-pubDate: "2025-11-25T01:29:32.751Z"
+pubDate: "2019-10-08T17:00:00.000Z"
+updatedDate: "2020-07-08T17:00:00.000Z"
 heroImage: "./trevor-cole-8uJ8w9pL-y8-unsplash-scaled.jpg"
+tags: ["Conquer the Mind", "Học quyết định", "Path to Mastery"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/loi-nhac-tam#respond) / [Conquer the Mind](https://tinkerdrop.com/mastery/conquer-mind), [Học quyết định](https://tinkerdrop.com/learn/hoc-quyet-dinh), [Path to Mastery](https://tinkerdrop.com/mastery) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

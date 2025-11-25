@@ -1,8 +1,11 @@
 ---
 title: "2019 IronMan 70.3 Đã Nẵng Finished"
 description: "Ngày hôm nay, chỉ 7 tiếng ngắn ngủi. Nhưng nhờ nó mà định hình được một hành trình. Cũng nhờ nó mà được nhìn thấy nhiều nỗi sợ, sự hồi hộp, cũng như sự quyết"
-pubDate: "2025-11-25T01:29:41.979Z"
+pubDate: "2019-05-11T17:00:00.000Z"
+updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./sergio-souza-ttVkhv0Wd5A-unsplash-scaled.jpg"
+tags: ["Chơi", "Học yêu bản thân", "Path to Mastery", "Sharpen the Body"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/2019-ironman-70-3-da-nang-finished#respond) / [Chơi](https://tinkerdrop.com/play), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than), [Path to Mastery](https://tinkerdrop.com/mastery), [Sharpen the Body](https://tinkerdrop.com/mastery/sharpen-body) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

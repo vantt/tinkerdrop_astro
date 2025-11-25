@@ -2,7 +2,7 @@ import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 
 export async function GET(context) {
-	const blog = await getCollection('blog');
+	const blog = await getCollection('blog', ({ data }) => data.published === true);
 	return rss({
 		title: 'Tinker Drop',
 		description: 'Tinker Drop Blog',

@@ -1,8 +1,11 @@
 ---
 title: "Con nên học Văn như thế nào?"
 description: "Con mình may mắn được học với cô giáo luôn thẳng thắn trao đổi với hội phụ huynh về việc học của các con. Hôm nay cô có trao đổi việc các con nên học Văn như"
-pubDate: "2025-11-25T01:29:45.855Z"
+pubDate: "2019-01-09T17:00:00.000Z"
+updatedDate: "2019-01-17T17:00:00.000Z"
 heroImage: "./pan-xiaozhen-423533-unsplash-scaled.jpg"
+tags: ["Học", "Học chơi với con"]
+published: true
 ---
 
 [Leave a Comment](https://tinkerdrop.com/blog/con-nen-hoc-van-nhu-the-nao#respond) / [Học](https://tinkerdrop.com/learn), [Học chơi với con](https://tinkerdrop.com/learn/hoc-choi-voi-con) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
