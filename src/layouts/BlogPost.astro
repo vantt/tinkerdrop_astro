@@ -1,4 +1,5 @@
 ---
+import { Image } from "astro:assets";
 import Layout from "./Layout.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
@@ -7,10 +8,11 @@ interface Props {
   title: string;
   description?: string;
   pubDate?: Date;
-  heroImage?: string;
+  heroImage?: any; // Can be ImageMetadata or string
 }
 
 const { title, description, pubDate, heroImage } = Astro.props;
+const isLocalImage = heroImage && typeof heroImage !== "string";
 ---
 
 <Layout title={title} description={description}>
@@ -18,13 +20,22 @@ const { title, description, pubDate, heroImage } = Astro.props;
   <main class="w-full max-w-[768px] mx-auto pb-12">
     <article>
       {
-        heroImage && (
-          <img
-            src={heroImage}
-            alt=""
-            class="w-full h-auto rounded-xl mb-8 object-cover aspect-video"
-          />
-        )
+        heroImage &&
+          (isLocalImage ? (
+            <Image
+              src={heroImage}
+              alt={title}
+              class="w-full h-auto rounded-xl mb-8 object-cover aspect-video"
+              widths={[400, 768, 1024]}
+              sizes="(max-width: 768px) 100vw, 768px"
+            />
+          ) : (
+            <img
+              src={heroImage}
+              alt={title}
+              class="w-full h-auto rounded-xl mb-8 object-cover aspect-video"
+            />
+          ))
       }
       <div class="mb-8">
         <h1
@@ -45,7 +56,7 @@ const { title, description, pubDate, heroImage } = Astro.props;
         }
       </div>
       <div
-        class="prose prose-lg prose-slate max-w-none prose-headings:font-bold prose-a:text-primary hover:prose-a:text-primary-hover"
+        class="prose prose-lg prose-slate max-w-none prose-headings:font-bold prose-a:text-primary hover:prose-a:text-primary-hover prose-img:rounded-lg prose-img:shadow-md"
       >
         <slot />
       </div>

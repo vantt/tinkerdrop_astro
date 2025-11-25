@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from "astro:content";
+import { Image } from "astro:assets";
 
 interface Props {
   post: CollectionEntry<"blog">;
@@ -11,11 +12,17 @@ const { post } = Astro.props;
 <article class="wrap-break-word">
   <a href={`/blog/${post.slug}/`} class="block">
     <div class="aspect-video relative overflow-hidden rounded-md">
-      <img
-        src={post.data.heroImage}
-        alt={post.data.title}
-        class="object-cover w-full h-full absolute inset-0 hover:scale-105 transition-transform duration-300"
-      />
+      {
+        post.data.heroImage && (
+          <Image
+            src={post.data.heroImage}
+            alt={post.data.title}
+            width={720}
+            height={405}
+            class="object-cover w-full h-full absolute inset-0 hover:scale-105 transition-transform duration-300"
+          />
+        )
+      }
     </div>
   </a>
 

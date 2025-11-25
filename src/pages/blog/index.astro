@@ -33,7 +33,8 @@ const posts = allPosts.slice(0, POSTS_PER_PAGE);
         <Pagination
           currentPage={currentPage}
           totalPages={totalPages}
-          baseUrl="/blog/"
+          baseUrl="/blog/page/"
+          firstPageUrl="/blog/"
         />
       )
     }

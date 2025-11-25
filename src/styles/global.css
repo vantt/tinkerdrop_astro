@@ -16,3 +16,33 @@
   /* Max Width */
   --max-width-container: 1152px;
 }
+
+/* Blog Image Styling */
+.prose img {
+  @apply rounded-lg shadow-md;
+  @apply my-8;
+  @apply w-full h-auto;
+  @apply transition-transform duration-300;
+}
+
+.prose img:hover {
+  @apply scale-[1.02];
+}
+
+/* Figure and Figcaption */
+.prose figure {
+  @apply my-8;
+}
+
+.prose figcaption {
+  @apply text-center text-sm text-gray-600 mt-3 italic;
+}
+
+/* Responsive images */
+.prose img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

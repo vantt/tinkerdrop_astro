@@ -3,9 +3,10 @@ interface Props {
   currentPage: number;
   totalPages: number;
   baseUrl?: string;
+  firstPageUrl?: string;
 }
 
-const { currentPage, totalPages, baseUrl = "/" } = Astro.props;
+const { currentPage, totalPages, baseUrl = "/", firstPageUrl } = Astro.props;
 
 // Generate page numbers to display
 const generatePageNumbers = () => {
@@ -49,7 +50,10 @@ const hasNext = currentPage < totalPages;
 const hasPrev = currentPage > 1;
 
 const getPageUrl = (page: number) => {
-  return page === 1 ? baseUrl : `${baseUrl}${page}`;
+  if (page === 1) {
+    return firstPageUrl || baseUrl;
+  }
+  return `${baseUrl}${page}`;
 };
 ---
 
