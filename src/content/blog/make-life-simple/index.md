@@ -15,6 +15,8 @@ tags:
 published: true
 ---
 
+\_\_ on reading **Your Life as Art, Robert Fritz**
+
 > Simplicity comes from clarity about what’s important.
 > _(Sự đơn giản đến từ sự rõ ràng về những gì thực sự quan trọng.)_
 

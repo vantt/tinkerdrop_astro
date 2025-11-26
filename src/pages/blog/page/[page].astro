@@ -1,6 +1,6 @@
 ---
 import type { GetStaticPaths } from "astro";
-import Layout from "../../../layouts/Layout.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
 import Header from "../../../components/Header.astro";
 import BlogGrid from "../../../components/BlogGrid.astro";
 import Pagination from "../../../components/Pagination.astro";
@@ -37,7 +37,7 @@ export const getStaticPaths = (async () => {
 const { posts, currentPage, totalPages } = Astro.props;
 ---
 
-<Layout title="TinkerDrop">
+<BaseLayout title="TinkerDrop">
   <Header />
   <main>
     <section>
@@ -52,4 +52,4 @@ const { posts, currentPage, totalPages } = Astro.props;
     />
   </main>
   <Footer />
-</Layout>
+</BaseLayout>

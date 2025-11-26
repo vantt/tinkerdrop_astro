@@ -1,6 +1,6 @@
 ---
 import { Image } from "astro:assets";
-import Layout from "./Layout.astro";
+import BaseLayout from "./BaseLayout.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 
@@ -15,7 +15,7 @@ const { title, description, pubDate, heroImage } = Astro.props;
 const isLocalImage = heroImage && typeof heroImage !== "string";
 ---
 
-<Layout title={title} description={description}>
+<BaseLayout title={title} description={description}>
   <Header />
   <main class="w-full max-w-[768px] mx-auto pb-12">
     <article class="article" data-pagefind-body>
@@ -60,7 +60,7 @@ const isLocalImage = heroImage && typeof heroImage !== "string";
     </article>
   </main>
   <Footer />
-</Layout>
+</BaseLayout>
 
 <style is:global>
   /* Custom typography overrides to match the design exactly if Tailwind Typography isn't enough */

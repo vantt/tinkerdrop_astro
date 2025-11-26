@@ -1,5 +1,5 @@
 ---
-import Layout from "../../layouts/Layout.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
 import Header from "../../components/Header.astro";
 import BlogGrid from "../../components/BlogGrid.astro";
 import Pagination from "../../components/Pagination.astro";
@@ -17,7 +17,7 @@ const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
 const posts = allPosts.slice(0, POSTS_PER_PAGE);
 ---
 
-<Layout title="TinkerDrop">
+<BaseLayout title="TinkerDrop">
   <Header />
   <main>
     <section>
@@ -36,4 +36,4 @@ const posts = allPosts.slice(0, POSTS_PER_PAGE);
     }
   </main>
   <Footer />
-</Layout>
+</BaseLayout>
