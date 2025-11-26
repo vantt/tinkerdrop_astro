@@ -3,7 +3,7 @@ title: "Parents do not raise children, NATURE DOES"
 description: "— on Reading ATMAMUN, Kapil Gupta"
 pubDate: "2019-05-28T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
-
+heroImage: "./parents-do-not-raise-children-nature-does-hero.jpg"
 tags: ["Conquer the Mind", "Học", "Học chơi với con"]
 published: true
 ---
@@ -32,3 +32,5 @@ If you create an environment of understanding, the child will be open with his p
 If you create an environment of silence, the child will become averse to the world’s noise.
 
 If you create an environment of freedom, the child will have the courage to find his own way.
+
+![Parents do not raise children, NATURE DOES](./parents-do-not-raise-children-nature-does.jpg)

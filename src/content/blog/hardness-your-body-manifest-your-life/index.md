@@ -21,4 +21,4 @@ so that your spirit got its time.
 Strongest your body, longest your time  
 Hardness your body, manifest your life.
 
-![](./Z)
+![Iron Kids](./iron_kids.jpg)

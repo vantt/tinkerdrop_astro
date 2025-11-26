@@ -56,5 +56,3 @@ to become Mastery.
 **_and its refinement is his journey,_**  
 **_a journey toward perfect himself_**  
 **_a journey of  Experience and Mastery._**
-
-Chất lượng

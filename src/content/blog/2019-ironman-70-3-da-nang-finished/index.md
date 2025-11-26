@@ -8,10 +8,6 @@ tags: ["Chơi", "Học yêu bản thân", "Path to Mastery", "Sharpen the Body"]
 published: true
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/2019-ironman-70-3-da-nang-finished#respond) / [Chơi](https://tinkerdrop.com/play), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than), [Path to Mastery](https://tinkerdrop.com/mastery), [Sharpen the Body](https://tinkerdrop.com/mastery/sharpen-body) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
-
-![](./Z)
-
 Ngày hôm nay, chỉ 7 tiếng ngắn ngủi. Nhưng nhờ nó mà định hình được một hành trình. Cũng nhờ nó mà được nhìn thấy nhiều nỗi sợ, sự hồi hộp, cũng như sự quyết tâm của rất nhiều con người, nhiều lứa tuổi.
 
 Vẫn luôn là cảm giác quý giá đó mỗi khi ở đây. Vẫn luôn là một hoạt động quan trọng trong lịch trình của mình. Vẫn hồi hộp như lần đầu với chút tự tin và tiến bộ ti tí so với năm ngoái.
@@ -21,3 +17,7 @@ Năm nay bơi hết 49 phút, nhanh hơn 2p so với năm ngoái. Ra biển gặ
 Chạy bộ 2h30p, rút được 10p. Còn mỗi đạp xe là lẹt đẹt ngưởi khói người ta. Mục tiêu sang năm bơi 45p đạp 3hrs là ngon rồi.
 
 Giờ đợi thằng cùng phòng về bàn kế hoạch ăn mừng.
+
+![Ironman 2019](./ironman2019_tran_toan_van.jpg)
+
+[Leave a Comment](https://tinkerdrop.com/blog/2019-ironman-70-3-da-nang-finished#respond) / [Chơi](https://tinkerdrop.com/play), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than), [Path to Mastery](https://tinkerdrop.com/mastery), [Sharpen the Body](https://tinkerdrop.com/mastery/sharpen-body) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

@@ -3,7 +3,7 @@ title: "Reading: Output vs Outcome vs Impact"
 description: "Original Article:"
 pubDate: "2021-02-15T15:41:49.000Z"
 updatedDate: "2021-02-15T15:41:49.000Z"
-
+heroImage: "./output-vs-outcome-vs-impact-hero.jpg"
 tags: ["My Reading"]
 published: true
 ---
@@ -25,5 +25,7 @@ published: true
   Nói chung, các hành động ở đây có xu hướng được quyết định bởi bài toán cắt giảm chi phí và hiệu quả sử dụng nguồn lực.
   Đó có thể là một tập trung hợp lý trong một thời gian nhất định. Nhưng phải nhớ một tổ chức tập trung vào giải quyết các vấn đề của chính mình thì không có thời gian để giải quyết cho khách hàng của mình. Làm điều đó quá lâu và bạn sẽ đánh mất khách hàng của mình.
   _Hãy luôn nhớ: **Mục đích của tổ chức của bạn khi bắt đầu là gì?**_
+
+![Output vs Outcome vs Impact](./output-vs-outcome-vs-impact-diagram1.png)
 
 > [Output vs Outcome vs Impact](https://blog.crisp.se/2019/10/16/christopheachouiantz/output-vs-outcome-vs-impact)
