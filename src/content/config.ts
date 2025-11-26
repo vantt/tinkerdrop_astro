@@ -10,7 +10,11 @@ const blog = defineCollection({
 		pubDate: z.coerce.date(),
 		updatedDate: z.coerce.date().optional(),
 		// Support both local images and remote URLs
-		heroImage: z.union([image(), z.string()]).optional(),
+		heroImage: z.union([image(), z.string()]).optional(),		
+		category: z.union([
+			z.enum(['Học', 'Làm', 'Chơi', 'Khác']),
+			z.array(z.enum(['Học', 'Làm', 'Chơi', 'Khác']))
+		]).optional(),
 		tags: z.array(z.string()).optional(),
 		published: z.boolean().default(false),
 	}),

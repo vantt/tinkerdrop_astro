@@ -1,0 +1,72 @@
+---
+import type { GetStaticPaths } from "astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Header from "../../../components/Header.astro";
+import BlogGrid from "../../../components/BlogGrid.astro";
+import Pagination from "../../../components/Pagination.astro";
+import Footer from "../../../components/Footer.astro";
+import { getCollection } from "astro:content";
+
+export const getStaticPaths = (async () => {
+  const categories = ["hoc", "lam", "choi"];
+  const POSTS_PER_PAGE = 6;
+  const allPosts = (
+    await getCollection("blog", ({ data }) => data.published === true)
+  ).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+  const categoryMap: Record<string, string> = {
+    hoc: "Học",
+    lam: "Làm",
+    choi: "Chơi",
+  };
+
+  return categories.map((category) => {
+    const targetCategory = categoryMap[category];
+
+    const filteredPosts = allPosts.filter((post) => {
+      const categories = post.data.category;
+      if (!categories) return false;
+      if (Array.isArray(categories)) {
+        // @ts-ignore
+        return categories.includes(targetCategory);
+      }
+      return categories === targetCategory;
+    });
+    const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);
+
+    return {
+      params: { category },
+      props: {
+        posts: filteredPosts.slice(0, POSTS_PER_PAGE),
+        currentPage: 1,
+        totalPages,
+        categoryName: targetCategory,
+      },
+    };
+  });
+}) satisfies GetStaticPaths;
+
+const { posts, currentPage, totalPages, categoryName } = Astro.props;
+const { category } = Astro.params;
+---
+
+<BaseLayout title={`TinkerDrop - ${categoryName}`}>
+  <Header />
+  <main>
+    <section>
+      <BlogGrid posts={posts} />
+    </section>
+
+    {
+      totalPages > 1 && (
+        <Pagination
+          currentPage={currentPage}
+          totalPages={totalPages}
+          baseUrl={`/category/${category}/page/`}
+          firstPageUrl={`/category/${category}/`}
+        />
+      )
+    }
+  </main>
+  <Footer />
+</BaseLayout>

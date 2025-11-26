@@ -1,0 +1,76 @@
+---
+import type { GetStaticPaths } from "astro";
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import Header from "../../../../components/Header.astro";
+import BlogGrid from "../../../../components/BlogGrid.astro";
+import Pagination from "../../../../components/Pagination.astro";
+import Footer from "../../../../components/Footer.astro";
+import { getCollection } from "astro:content";
+
+export const getStaticPaths = (async () => {
+  const categories = ["hoc", "lam", "choi"];
+  const POSTS_PER_PAGE = 6;
+  const allPosts = (
+    await getCollection("blog", ({ data }) => data.published === true)
+  ).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+  const categoryMap: Record<string, string> = {
+    hoc: "Học",
+    lam: "Làm",
+    choi: "Chơi",
+  };
+
+  const paths = [];
+
+  for (const category of categories) {
+    const targetCategory = categoryMap[category];
+    const filteredPosts = allPosts.filter((post) => {
+      const categories = post.data.category;
+      if (!categories) return false;
+      if (Array.isArray(categories)) {
+        // @ts-ignore
+        return categories.includes(targetCategory);
+      }
+      return categories === targetCategory;
+    });
+    const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);
+
+    // Generate paths for page 2, 3, etc.
+    for (let i = 2; i <= totalPages; i++) {
+      const start = (i - 1) * POSTS_PER_PAGE;
+      const end = start + POSTS_PER_PAGE;
+      paths.push({
+        params: { category, page: i.toString() },
+        props: {
+          posts: filteredPosts.slice(start, end),
+          currentPage: i,
+          totalPages,
+          categoryName: targetCategory,
+        },
+      });
+    }
+  }
+
+  return paths;
+}) satisfies GetStaticPaths;
+
+const { posts, currentPage, totalPages, categoryName } = Astro.props;
+const { category } = Astro.params;
+---
+
+<BaseLayout title={`TinkerDrop - ${categoryName}`}>
+  <Header />
+  <main>
+    <section>
+      <BlogGrid posts={posts} />
+    </section>
+
+    <Pagination
+      currentPage={currentPage}
+      totalPages={totalPages}
+      baseUrl={`/category/${category}/page/`}
+      firstPageUrl={`/category/${category}/`}
+    />
+  </main>
+  <Footer />
+</BaseLayout>
