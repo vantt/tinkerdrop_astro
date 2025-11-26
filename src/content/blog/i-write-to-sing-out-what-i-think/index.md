@@ -1,6 +1,6 @@
 ---
 title: "I write to SING out what I think."
-description: "I write to SING out what I think."
+description: "Viết lách không chỉ là sắp xếp từ ngữ, mà là tạo ra những giai điệu từ suy nghĩ. Hãy để câu chữ vang lên như một bản nhạc, vì con người luôn rung động trước nhịp điệu."
 pubDate: "2019-08-11T17:00:00.000Z"
 updatedDate: "2021-09-09T17:00:00.000Z"
 heroImage: "./happy-asian-woman-songwriter-playing-acoustic-guitar-listen-song-from-smartphone-1024x576.jpg"

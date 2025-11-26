@@ -1,6 +1,6 @@
 ---
 title: "Make Life Simple"
-description: "__ on reading Your Life as Art, Robert Fritz"
+description: "Đơn giản hóa cuộc sống bằng cách xác định điều thực sự quan trọng và xây dựng thang giá trị cá nhân. Những suy ngẫm từ cuốn sách 'Your Life as Art' của Robert Fritz."
 pubDate: "2019-09-20T17:00:00.000Z"
 updatedDate: "2020-02-20T17:00:00.000Z"
 heroImage: "./make-life-simple-hero.jpg"

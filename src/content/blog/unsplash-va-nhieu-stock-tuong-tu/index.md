@@ -1,6 +1,6 @@
 ---
 title: "Unsplash và nhiều stock tương tự"
-description: "Người viết blog chúng ta rất cám ơn khi được trang Unsplash chia sẽ rất nhiều hình ảnh đẹp (stock photo) và miễn phí để tùy nghi sử dụng."
+description: "Tổng hợp các nguồn ảnh stock miễn phí chất lượng cao tương tự Unsplash. Danh sách các website cung cấp tài nguyên hình ảnh đa dạng cho blogger và designer."
 pubDate: "2019-01-08T10:43:00.468Z"
 updatedDate: "2019-01-10T09:18:16.000Z"
 heroImage: "./elaine-casap-86020-unsplash-scaled.jpg"

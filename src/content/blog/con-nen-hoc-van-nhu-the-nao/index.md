@@ -1,6 +1,6 @@
 ---
 title: "Con nên học Văn như thế nào?"
-description: "Con mình may mắn được học với cô giáo luôn thẳng thắn trao đổi với hội phụ huynh về việc học của các con. Hôm nay cô có trao đổi việc các con nên học Văn như"
+description: "Thay vì coi Văn là môn học nghệ thuật, hãy xem Viết là công cụ tư duy và truyền tải thông tin. Bài viết chia sẻ góc nhìn về việc rèn luyện kỹ năng viết mạch lạc, rõ ràng và hiệu quả cho con."
 pubDate: "2019-01-09T17:00:00.000Z"
 updatedDate: "2019-01-17T17:00:00.000Z"
 heroImage: "./pan-xiaozhen-423533-unsplash-scaled.jpg"
@@ -14,7 +14,7 @@ Con mình may mắn được học với cô giáo luôn thẳng thắn trao đ�
 
 Nhân tiện mình cũng có trăn trở về việc này. Ở đây mình mạo muội không dùng từ Học Văn mà dùng từ Học Viết.
 
-Mình đã đọc nhiều ý kiến về việc học Văn. Cho dù các quan điểm đều mở, nhưng cảm nhận của mình là “_Chúng ta luôn coi kết quả của môn Viết là một tác phẩm (Art)_ “.
+Mình đã đọc nhiều ý kiến về việc học Văn. Cho dù các quan điểm đều mở, nhưng cảm nhận của mình là “*Chúng ta luôn coi kết quả của môn Viết là một tác phẩm (Art)* “.
 
 Mình chỉ muốn con hiểu: Viết là một công cụ (Tool) để truyền tải thông tin, xa hơn mới mong cầu việc truyền tải quan điểm. Nhưng trước tiên phải dùng tốt nó như một công cụ.
 
@@ -24,7 +24,7 @@ Hơn nữa, loài người có khả năng truyền tải thế giới quan củ
 
 Chính năng lực giao tiếp phức tạp này đã được sử dụng để tạo nên các câu chuyện về thần thoại, thánh thần và tôn giáo, là chất keo kết dính loài người và cũng chính là công cụ để kích động chiến tranh.
 
-Con người có 5 giác quan, trong đó hết 3 thứ dùng để tự cảm nhận về bản thân mình khi tiếp xúc với thế giới. Hai thứ còn lại là ” _Mắt và Tai “_ dùng để cảm nhận hình thái của chính thế giới xung quanh. Cái thứ 6 mình tự gọi là khả năng tưởng tượng. Trí tưởng tượng đã đẩy thế giới quan của con người đi xa cực đại. Có thể tốt, có thể xấu, không bàn ở đây.
+Con người có 5 giác quan, trong đó hết 3 thứ dùng để tự cảm nhận về bản thân mình khi tiếp xúc với thế giới. Hai thứ còn lại là ” *Mắt và Tai “* dùng để cảm nhận hình thái của chính thế giới xung quanh. Cái thứ 6 mình tự gọi là khả năng tưởng tượng. Trí tưởng tượng đã đẩy thế giới quan của con người đi xa cực đại. Có thể tốt, có thể xấu, không bàn ở đây.
 
 Một khi đã cảm nhận về thế giới, con người có nhu cầu truyền đạt cái mình biết. Từ lâu con người có 2 công cụ quan trọng để tận dụng năng lực của Mắt và Tai: _Đó là Vẽ và Kể Truyện_.
 

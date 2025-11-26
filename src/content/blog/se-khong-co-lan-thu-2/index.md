@@ -1,6 +1,6 @@
 ---
 title: "Sẽ không có lần thứ 2"
-description: "Rất ít kỳ quan thế giới có thể hiện rõ trong tâm trí con người mặc dù họ chưa một lần ghé thăm."
+description: "Câu chuyện về người tài xế tại cầu Golden Gate và bài học về việc nắm bắt khoảnh khắc: Đừng chờ đợi lần sau, vì có thể sẽ không có lần thứ hai để bạn tạo nên dấu ấn."
 pubDate: "2019-01-11T17:00:00.000Z"
 updatedDate: "2019-01-11T17:00:00.000Z"
 heroImage: "./robert-bye-13761-unsplash-scaled.jpg"

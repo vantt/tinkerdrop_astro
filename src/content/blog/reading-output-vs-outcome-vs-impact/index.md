@@ -1,6 +1,6 @@
 ---
 title: "Reading: Output vs Outcome vs Impact"
-description: "Original Article:"
+description: "Phân biệt Output, Outcome và Impact: Hiểu rõ sự khác biệt giữa hoàn thành công việc, giải quyết vấn đề cho khách hàng và mang lại tác động kinh doanh."
 pubDate: "2021-02-15T15:41:49.000Z"
 updatedDate: "2021-02-15T15:41:49.000Z"
 heroImage: "./output-vs-outcome-vs-impact-hero.jpg"

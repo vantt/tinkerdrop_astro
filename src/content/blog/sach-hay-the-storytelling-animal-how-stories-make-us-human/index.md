@@ -1,6 +1,6 @@
 ---
 title: "Sách Hay: The Storytelling Animal – How Stories Make Us Human"
-description: "Đọc Homo Sapiens chỉ có cảm nhận con người duy trì được quần thể đông hơn con thú ở chổ thích bà tám, thích kể chuyện phím."
+description: "Con người bị kiểm soát bởi những câu chuyện như thế nào? Cuốn sách giải mã bản năng kể chuyện len lỏi trong tâm trí, nỗi sợ và khát khao của chúng ta, giúp bạn nhận ra sức mạnh của ngôn từ trong việc định hình cuộc sống và thành công."
 pubDate: "2019-07-06T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./storytelling-animal-hero.jpg"

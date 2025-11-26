@@ -1,6 +1,6 @@
 ---
 title: "There is no Path for your life"
-description: "― on reading A Master's Secret Whispers, Kapil Gupta"
+description: "Đừng chạy theo thành công hay hạnh phúc nhất thời, hãy hướng tới sự Tinh thông (Mastery). Những suy ngẫm về hành trình rèn giũa bản thân và nâng cao chất lượng cuộc sống, lấy cảm hứng từ 'A Master's Secret Whispers' của Kapil Gupta."
 pubDate: "2019-05-15T17:00:00.000Z"
 updatedDate: "2020-02-11T17:00:00.000Z"
 heroImage: "./quino-al-366037-unsplash-scaled.jpg"

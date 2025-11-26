@@ -1,6 +1,6 @@
 ---
 title: "Parents do not raise children, NATURE DOES"
-description: "— on Reading ATMAMUN, Kapil Gupta"
+description: "Cha mẹ không nuôi dạy con cái, Tự Nhiên (thiên nhiên) làm điều đó. Hãy tạo môi trường bình an, thấu hiểu và tự do để con tự mình khôn lớn thay vì can thiệp quá sâu."
 pubDate: "2019-05-28T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./parents-do-not-raise-children-nature-does-hero.jpg"

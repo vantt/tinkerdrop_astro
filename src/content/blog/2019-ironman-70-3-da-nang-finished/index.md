@@ -1,6 +1,6 @@
 ---
 title: "2019 IronMan 70.3 Đã Nẵng Finished"
-description: "Ngày hôm nay, chỉ 7 tiếng ngắn ngủi. Nhưng nhờ nó mà định hình được một hành trình. Cũng nhờ nó mà được nhìn thấy nhiều nỗi sợ, sự hồi hộp, cũng như sự quyết"
+description: "Tổng kết hành trình Ironman 70.3 Đà Nẵng 2019: 7 tiếng nỗ lực vượt qua nỗi sợ, cải thiện thành tích cá nhân và những cảm xúc quý giá trên đường đua."
 pubDate: "2019-05-11T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./sergio-souza-ttVkhv0Wd5A-unsplash-scaled.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Don’t be obsessed with Tools and Methodologies"
-description: "Nhiều người dành cả đời tiềm kiếm cây đũa thần, một công cụ hoàn hảo giải quyết mọi vấn đề."
+description: "Đừng để công cụ và phương pháp trở thành rào cản. Thay vì tìm kiếm 'cây đũa thần', hãy tập trung vào mục tiêu và sáng tạo giải pháp phù hợp với hoàn cảnh của chính bạn."
 pubDate: "2020-02-27T17:00:00.000Z"
 updatedDate: "2021-02-10T17:00:00.000Z"
 heroImage: "./hammer-4773084_1280.jpg"

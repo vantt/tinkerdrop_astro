@@ -1,6 +1,6 @@
 ---
 title: "Bàn thờ, nguồn sinh khí của gia đình."
-description: "Tôi có cô bạn rất thân, đã bỏ rất nhiều thời gian ra tận ngoài Bắc học về cách con người nên sống như thế nào cho đúng và hợp đạo lý. Trong khóa học đã được"
+description: "Bàn thờ gia tiên không chỉ là nơi thờ cúng mà còn là nguồn sinh khí, điểm tựa tâm linh nuôi dưỡng lòng biết ơn và sự gắn kết bền chặt giữa các thành viên trong gia đình."
 pubDate: "2019-04-22T17:00:00.000Z"
 updatedDate: "2019-04-28T17:00:00.000Z"
 heroImage: "./maxresdefault.jpg"

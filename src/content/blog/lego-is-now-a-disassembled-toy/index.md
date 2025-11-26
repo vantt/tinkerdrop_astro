@@ -1,6 +1,6 @@
 ---
 title: "Lego is now a Disassembled Toy"
-description: "Nhân đọc bài viết nói về tác động của nghề Sales và Marketing đã làm thay đổi linh hồn vốn có của trò chơi Lego, từ một huyền thoại là cái nôi nuôi dưỡng trí"
+description: "Suy ngẫm về việc Lego dần đánh mất linh hồn sáng tạo khi chuyển mình thành những mô hình lắp ráp định sẵn. Bài viết cổ vũ cha mẹ hãy để trí tưởng tượng của con bay bổng với những mảnh ghép tự do thay vì bị giới hạn bởi các bộ Lego theo chủ đề."
 pubDate: "2018-11-28T08:21:12.000Z"
 updatedDate: "2019-01-04T08:21:12.000Z"
 heroImage: "./igor-sergeyev-1177182-unsplash.jpg"

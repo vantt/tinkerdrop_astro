@@ -1,6 +1,6 @@
 ---
 title: "Bài viết đầu tiên!"
-description: "Hôm nay tôi viết bài đầu tiên, mặc dù chuyện này đã ấp ủ từ lâu."
+description: "Bắt đầu hành trình tìm kiếm sự sáng suốt và bình an trong tâm trí thông qua việc viết lách và chiêm nghiệm."
 pubDate: "2016-05-11T17:00:00.000Z"
 updatedDate: "2019-01-03T17:00:00.000Z"
 heroImage: "./dylan-nolte-568419-unsplash.jpg"

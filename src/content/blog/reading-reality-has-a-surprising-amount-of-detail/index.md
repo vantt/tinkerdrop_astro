@@ -1,6 +1,6 @@
 ---
 title: "Reading: Reality has a surprising amount of detail"
-description: "Notice in the details actually change how you think."
+description: "Thực tế chứa đựng một lượng chi tiết đáng kinh ngạc. Việc chú ý đến những chi tiết này có thể thay đổi hoàn toàn cách bạn tư duy và giải quyết vấn đề."
 pubDate: "2020-03-02T08:39:22.323Z"
 updatedDate: "2020-03-02T09:28:43.000Z"
 tags: ["My Reading"]

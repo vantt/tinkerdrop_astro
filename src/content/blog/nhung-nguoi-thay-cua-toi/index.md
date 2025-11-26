@@ -1,6 +1,6 @@
 ---
 title: "Những Người Thầy Của Tôi"
-description: "Trong dân gian có từ Đạo Sư."
+description: "Những người thầy lớn - những 'Đạo Sư' đã dẫn dắt và định hình tư duy của tôi. Từ bài học về Nhân Quả của Đức Phật, Thầy Trần Việt Quân đến các mô hình tư duy hiện đại từ Shane Parrish hay Naval Ravikant."
 pubDate: "2019-04-22T17:00:00.000Z"
 updatedDate: "2019-07-07T17:00:00.000Z"
 heroImage: "./samuel-austin-438854-unsplash.jpg"

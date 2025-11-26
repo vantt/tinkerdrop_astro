@@ -1,6 +1,6 @@
 ---
 title: "Goal vs Habit (System)"
-description: "It’s like setting a goal to lose 10 pounds and falling back to old habits after reaching it. Compared to making a lifestyle of eating healthy and exercise"
+description: "Phân biệt giữa Mục tiêu (Goal) và Thói quen (System). Tại sao bạn cần xây dựng hệ thống thói quen để đạt được thành công bền vững thay vì chỉ đặt ra những mục tiêu ngắn hạn."
 pubDate: "2019-02-13T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./IMG_8147-236-scaled.jpg"

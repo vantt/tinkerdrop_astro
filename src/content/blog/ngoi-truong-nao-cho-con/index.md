@@ -1,6 +1,6 @@
 ---
 title: "Ngôi trường nào cho con?"
-description: "Đây là bài copy lại trên Facebook tôi đã đăng vào ngày 21/7/2017."
+description: "Những trăn trở khi chọn trường cho con trong thời đại số: Liệu kiến thức hay trí tưởng tượng mới là hành trang quan trọng nhất để trẻ thích ứng với thế giới tương lai?"
 pubDate: "2019-01-05T17:00:00.000Z"
 updatedDate: "2019-08-22T08:41:37.000Z"
 heroImage: "./boy-child-field-1549974-scaled.jpg"

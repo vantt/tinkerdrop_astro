@@ -1,6 +1,6 @@
 ---
 title: "Văn Hóa Là Gì?"
-description: "Trong cuộc sống hàng ngày, văn hóa thường được hiểu là văn học, nghệ thuật như thơ ca, mỹ thuật, sân khấu, điện ảnh... Một cách hiểu thông thường khác: văn"
+description: "Văn hóa là gì? Tìm hiểu góc nhìn mới về văn hóa: không chỉ là kiến thức, mà là sự chuyển hóa bản thân qua việc thực hành những điều hay lẽ phải."
 pubDate: "2019-04-25T17:00:00.000Z"
 updatedDate: "2019-04-28T17:00:00.000Z"
 heroImage: "./oriento-742749-unsplash.jpg"
@@ -11,7 +11,7 @@ published: true
 [Leave a Comment](https://tinkerdrop.com/blog/van-hoa-la-gi#respond) / [Học](https://tinkerdrop.com/learn), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
 Theo định nghĩa từ Wiki:  
-[https://vi.wikipedia.org/wiki/Văn\_hóa](https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a)
+[https://vi.wikipedia.org/wiki/Văn_hóa](https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a)
 
 Trong cuộc sống hàng ngày, văn hóa thường được hiểu là [văn học](https://vi.wikipedia.org/wiki/V%C4%83n_h%E1%BB%8Dc), [nghệ thuật](https://vi.wikipedia.org/wiki/Ngh%E1%BB%87_thu%E1%BA%ADt) như [thơ ca](https://vi.wikipedia.org/wiki/Th%C6%A1), [mỹ thuật](https://vi.wikipedia.org/wiki/M%E1%BB%B9_thu%E1%BA%ADt), [sân khấu](https://vi.wikipedia.org/wiki/S%C3%A2n_kh%E1%BA%A5u), [điện ảnh](https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_%E1%BA%A3nh)… Một cách hiểu thông thường khác: văn hóa là cách sống bao gồm phong cách [ẩm thực](https://vi.wikipedia.org/wiki/%E1%BA%A8m_th%E1%BB%B1c), trang phục, cư xử và cả đức tin, [tri thức](https://vi.wikipedia.org/wiki/Tri_th%E1%BB%A9c) được tiếp nhận… Vì thế chúng ta nói một người nào đó là văn hóa cao, có văn hóa hoặc văn hóa thấp, vô văn hóa.
 

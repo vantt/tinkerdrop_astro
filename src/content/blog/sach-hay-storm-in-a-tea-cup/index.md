@@ -1,6 +1,6 @@
 ---
 title: "Sách Hay: Storm In A Tea Cup"
-description: "Đọc để thấy khoa học rất đời thường. Đọc để thấy nhà khoa học kể truyện rất lôi cuốn."
+description: "Vũ trụ vận hành theo cùng một quy luật ở mọi quy mô. Cuốn sách dẫn dắt bạn từ tách trà nhỏ đến những cơn bão lớn, khám phá vẻ đẹp của vật lý hiện hữu trong từng khoảnh khắc đời thường."
 pubDate: "2019-07-05T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./storm-in-a-tea-cup-hero.jpg"

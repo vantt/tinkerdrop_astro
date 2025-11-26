@@ -1,6 +1,6 @@
 ---
 title: "Tìm hiểu về Giáo Dục Waldorf Steiner"
-description: "Tự nhìn bản thân và thế giới xung quanh, mọi thứ thay đổi quá nhanh, rất rất nhiều người trong độ tuổi 40, 50 không biết mình sẽ phải làm gì trước sự thay đổi"
+description: "Khám phá giáo dục Waldorf Steiner: Tại sao nuôi dưỡng 'năng lực' quan trọng hơn 'kỹ năng'? So sánh Steiner với Montessori và hành trình chọn trường giúp trẻ phát triển toàn diện."
 pubDate: "2019-01-06T15:34:04.000Z"
 updatedDate: "2021-08-25T15:34:04.000Z"
 heroImage: "./FB_IMG_1531497842970.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Sách Hay: This is Marketing"
-description: "Tôi chưa hiểu năng lực thật sự của những người này là thế nào. Kỹ năng của họ là gì. Tôi chỉ thấy vài đồng đi ra thì có vài đồng trở lại. Và rồi tôi thấy cả"
+description: "Góc nhìn của một Software Engineer về 'This Is Marketing'. Cuốn sách định nghĩa lại Marketing không phải là chiêu trò hay quảng cáo, mà là nghệ thuật thấu hiểu, kể chuyện và tạo ra sự thay đổi tích cực."
 pubDate: "2019-08-22T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./66217087_10156160948971246_2062269551227174912_n.jpg"
@@ -10,9 +10,10 @@ published: true
 
 [Leave a Comment](https://tinkerdrop.com/blog/sach-hay-this-is-marketing#respond) / [Học kể truyện](https://tinkerdrop.com/learn/hoc-ke-truyen), [Refine the Craft](https://tinkerdrop.com/mastery/refine-craft), [Sách Hay](https://tinkerdrop.com/sach-hay) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
-Là một software engineer, là kẻ ngoại đoại, không hiểu gì về marketing. Lớn lên trong thời kì mạng xã hội, thấy nhà nhà người người đi làm marketing. Mà tôi cũng chẳng hiểu làm marketing là làm gì. Chỉ thấy rõ 2 điều:  
-1) các xếp marketing thì có vẻ lịch lãm và sang trọng lắm  
-2) số còn lại không ngồi viết bài thì ngồi setup google và facebook.
+Là một software engineer, là kẻ ngoại đoại, không hiểu gì về marketing. Lớn lên trong thời kì mạng xã hội, thấy nhà nhà người người đi làm marketing. Mà tôi cũng chẳng hiểu làm marketing là làm gì. Chỉ thấy rõ 2 điều:
+
+1. các xếp marketing thì có vẻ lịch lãm và sang trọng lắm
+2. số còn lại không ngồi viết bài thì ngồi setup google và facebook.
 
 Tôi chưa hiểu năng lực thật sự của những người này là thế nào. Kỹ năng của họ là gì. Tôi chỉ thấy vài đồng đi ra thì có vài đồng trở lại. Và rồi tôi thấy cả xã hội ai cũng hăng say và hớn hở với điều đó. Dường như sự phát triển của xã hội là google và facebook. Dường như năng lực cạnh tranh của xã hội là google và faecbook.
 
