@@ -2,7 +2,7 @@
 import type { GetStaticPaths } from "astro";
 import Layout from "../../layouts/Layout.astro";
 import Header from "../../components/Header.astro";
-import BlogCard from "../../components/BlogCard.astro";
+import BlogGrid from "../../components/BlogGrid.astro";
 import Pagination from "../../components/Pagination.astro";
 import Footer from "../../components/Footer.astro";
 import { getCollection } from "astro:content";
@@ -41,11 +41,7 @@ const { posts, currentPage, totalPages } = Astro.props;
   <Header />
   <main>
     <section>
-      <div
-        class="grid grid-cols-1 gap-12 md:gap-16 lg:gap-20 md:grid-cols-2 md:my-16 my-8"
-      >
-        {posts.map((post) => <BlogCard post={post} />)}
-      </div>
+      <BlogGrid posts={posts} />
     </section>
 
     <Pagination
