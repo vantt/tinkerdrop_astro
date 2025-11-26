@@ -5,6 +5,7 @@ pubDate: "2019-01-05T17:00:00.000Z"
 updatedDate: "2019-08-22T08:41:37.000Z"
 heroImage: "./boy-child-field-1549974-scaled.jpg"
 tags: ["Học", "Học chơi với con", "Học lập trình"]
+category: 'Học'
 published: true
 ---
 

@@ -5,6 +5,7 @@ pubDate: "2019-01-09T17:00:00.000Z"
 updatedDate: "2019-01-17T17:00:00.000Z"
 heroImage: "./pan-xiaozhen-423533-unsplash-scaled.jpg"
 tags: ["Học", "Học chơi với con"]
+category: 'Học'
 published: true
 ---
 

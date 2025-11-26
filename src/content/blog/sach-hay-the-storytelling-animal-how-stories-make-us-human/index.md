@@ -5,6 +5,7 @@ pubDate: "2019-07-06T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./storytelling-animal-hero.jpg"
 tags: ["Học kể truyện", "Refine the Craft", "Sách Hay"]
+category: 'Học'
 published: true
 ---
 

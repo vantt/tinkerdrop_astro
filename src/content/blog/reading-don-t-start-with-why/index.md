@@ -4,6 +4,7 @@ description: "Một góc nhìn phản biện về lý thuyết 'Start with Why'.
 pubDate: "2019-11-27T08:35:58.391Z"
 updatedDate: "2020-03-02T09:45:28.000Z"
 tags: ["My Reading"]
+category: 'Khác'
 published: true
 action: need-improvement
 ---

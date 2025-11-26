@@ -5,6 +5,7 @@ pubDate: "2019-01-08T10:43:00.468Z"
 updatedDate: "2019-01-10T09:18:16.000Z"
 heroImage: "./elaine-casap-86020-unsplash-scaled.jpg"
 tags: ["Làm", "Tools", "Uncategorized", "Học", "Học làm việc"]
+category: 'Làm'
 published: true
 ---
 

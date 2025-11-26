@@ -5,6 +5,7 @@ pubDate: "2019-02-13T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./IMG_8147-236-scaled.jpg"
 tags: ["Conquer the Mind", "Học", "Học yêu bản thân", "Sharpen the Body"]
+category: 'Học'
 published: true
 ---
 

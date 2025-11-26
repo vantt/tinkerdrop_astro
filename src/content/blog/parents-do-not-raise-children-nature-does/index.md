@@ -5,6 +5,7 @@ pubDate: "2019-05-28T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./parents-do-not-raise-children-nature-does-hero.jpg"
 tags: ["Conquer the Mind", "Học", "Học chơi với con"]
+category: 'Học'
 published: true
 ---
 

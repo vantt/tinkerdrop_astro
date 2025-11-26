@@ -5,6 +5,7 @@ pubDate: "2019-05-09T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./igor-rodrigues-6n4cDxbeINs-unsplash.jpg"
 tags: ["Chơi", "Học", "Học chơi với con", "Sharpen the Body"]
+category: 'Chơi'
 published: true
 ---
 

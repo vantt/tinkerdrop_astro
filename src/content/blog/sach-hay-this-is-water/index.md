@@ -5,6 +5,7 @@ pubDate: "2019-07-09T17:00:00.000Z"
 updatedDate: "2021-09-09T17:00:00.000Z"
 heroImage: "./this-is-water-hero.jpg"
 tags: ["Học yêu bản thân", "Conquer the Mind", "Học quyết định", "Sách Hay"]
+category: 'Học'
 published: true
 ---
 

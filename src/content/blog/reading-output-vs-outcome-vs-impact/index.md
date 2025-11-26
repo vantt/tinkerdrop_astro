@@ -5,6 +5,7 @@ pubDate: "2021-02-15T15:41:49.000Z"
 updatedDate: "2021-02-15T15:41:49.000Z"
 heroImage: "./output-vs-outcome-vs-impact-hero.jpg"
 tags: ["My Reading"]
+category: 'Khác'
 published: true
 ---
 

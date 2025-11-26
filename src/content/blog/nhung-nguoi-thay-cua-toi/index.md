@@ -5,6 +5,7 @@ pubDate: "2019-04-22T17:00:00.000Z"
 updatedDate: "2019-07-07T17:00:00.000Z"
 heroImage: "./samuel-austin-438854-unsplash.jpg"
 tags: ["Học", "Học yêu bản thân"]
+category: 'Học'
 published: true
 ---
 

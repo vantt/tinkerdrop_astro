@@ -5,6 +5,7 @@ pubDate: "2019-07-05T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./storm-in-a-tea-cup-hero.jpg"
 tags: ["Sách Hay"]
+category: 'Khác'
 published: true
 ---
 

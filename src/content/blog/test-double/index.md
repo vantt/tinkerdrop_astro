@@ -5,6 +5,7 @@ pubDate: "2016-07-22T10:44:40.149Z"
 updatedDate: "2020-02-25T04:09:18.000Z"
 published: true
 tags: ["Học", "Học lập trình", "Học yêu bản thân"]
+category: 'Học'
 ---
 
 Gerard Meszaros is [working on a book](http://www.martinfowler.com/books/meszaros.html) to capture patterns for using the various [Xunit](http://www.martinfowler.com/bliki/Xunit.html) frameworks. One of the awkward things he’s run into is the various names for stubs, mocks, fakes, dummies, and other things that people use to stub out parts of a system for testing. To deal with this he’s come up with his own vocabulary which I think is worth spreading further.

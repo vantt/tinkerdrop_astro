@@ -5,6 +5,7 @@ pubDate: "2019-09-20T17:00:00.000Z"
 updatedDate: "2020-02-20T17:00:00.000Z"
 heroImage: "./make-life-simple-hero.jpg"
 tags:
+category: 'Khác'
   [
     "Conquer the Mind",
     "Học",

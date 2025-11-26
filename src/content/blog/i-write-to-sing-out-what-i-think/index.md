@@ -5,6 +5,7 @@ pubDate: "2019-08-11T17:00:00.000Z"
 updatedDate: "2021-09-09T17:00:00.000Z"
 heroImage: "./happy-asian-woman-songwriter-playing-acoustic-guitar-listen-song-from-smartphone-1024x576.jpg"
 tags: ["Học", "Học kể truyện", "Path to Mastery", "Refine the Craft"]
+category: 'Học'
 published: true
 ---
 

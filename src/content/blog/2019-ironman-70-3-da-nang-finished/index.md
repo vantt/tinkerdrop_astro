@@ -5,6 +5,7 @@ pubDate: "2019-05-11T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./sergio-souza-ttVkhv0Wd5A-unsplash-scaled.jpg"
 tags: ["Chơi", "Học yêu bản thân", "Path to Mastery", "Sharpen the Body"]
+category: 'Chơi'
 published: true
 ---
 

@@ -5,6 +5,7 @@ pubDate: "2016-05-11T17:00:00.000Z"
 updatedDate: "2019-01-03T17:00:00.000Z"
 heroImage: "./dylan-nolte-568419-unsplash.jpg"
 tags: ["Học", "Học yêu bản thân"]
+category: 'Học'
 published: true
 ---
 

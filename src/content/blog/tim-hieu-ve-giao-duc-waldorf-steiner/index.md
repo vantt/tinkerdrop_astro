@@ -5,6 +5,7 @@ pubDate: "2019-01-06T15:34:04.000Z"
 updatedDate: "2021-08-25T15:34:04.000Z"
 heroImage: "./FB_IMG_1531497842970.jpg"
 tags: ["Học", "Học chơi với con", "Học lập trình"]
+category: 'Học'
 published: true
 ---
 

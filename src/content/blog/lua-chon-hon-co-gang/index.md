@@ -5,6 +5,7 @@ pubDate: "2019-10-13T17:00:00.000Z"
 updatedDate: "2020-02-17T17:00:00.000Z"
 heroImage: "./victoriano-izquierdo-JG35CpZLfVs-unsplash-scaled.jpg"
 tags:
+category: 'Khác'
   [
     "Conquer the Mind",
     "Học",

@@ -5,6 +5,7 @@ pubDate: "2019-04-22T17:00:00.000Z"
 updatedDate: "2019-04-28T17:00:00.000Z"
 heroImage: "./maxresdefault.jpg"
 tags: ["Học", "Học yêu bản thân"]
+category: 'Học'
 published: true
 ---
 
