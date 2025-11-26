@@ -7,9 +7,10 @@ import "../styles/global.css";
 interface Props {
   title: string;
   description?: string;
+  canonical?: string;
 }
 
-const { title, description = "A personal blog." } = Astro.props;
+const { title, description = "A personal blog.", canonical } = Astro.props;
 ---
 
 <!doctype html>
@@ -20,6 +21,7 @@ const { title, description = "A personal blog." } = Astro.props;
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
+    {canonical && <link rel="canonical" href={canonical} />}
     <title>{title}</title>
   </head>
   <body
