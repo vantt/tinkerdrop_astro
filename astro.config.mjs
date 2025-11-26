@@ -9,7 +9,7 @@ import { remarkYoutube } from "./src/plugins/remark-youtube.js";
 // https://astro.build/config
 export default defineConfig({
   site: "https://tinkerdrop.com",
-  adapter: vercel(),
+  adapter: process.env.VERCEL ? vercel() : undefined,
   image: {
     // Enable image optimization
     service: {

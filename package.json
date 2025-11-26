@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && pagefind --site .vercel/output/static",
+    "build": "astro build && pagefind --site dist",
+    "build:vercel": "astro build && pagefind --site .vercel/output/static",
     "preview": "astro preview",
     "astro": "astro",
     "scrape:tinkerdrop": "node scripts/scrape-tinkerdrop.js"
