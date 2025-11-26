@@ -12,7 +12,7 @@ Tôi có cô bạn rất thân, đã bỏ rất nhiều thời gian ra tận ngo
 
 Tôi may mắn được nghe bạn chia sẻ nhiều về quan điểm và ý nghĩa của việc thờ cúng cũng như cách sắp xếp bố trí bàn thờ.
 
-Gia đình tôi vốn đã có truyền thống thờ cúng ông bà. Tuy nhiên bản thân tôi chưa hề để tâm đến việc phải thiết lập bàn thờ như thế nào là đúng. Cho tới khi được nghe được bạn chia sẻ.
+Gia đình tôi vốn đã có truyền thống thờ cúng ông bà. Tuy nhiên bản thân tôi chưa hề để tâm đến việc phải thiết lập bàn thờ như thế nào là đúng. Cho tới khi được nghe bạn chia sẻ.
 
 Tôi luôn tự hỏi ý nghĩa của bàn thờ là gì? Làm như thế nào là vừa phải, là hợp lý? Làm thế nào để đừng để bị mắc kẹt vào nghi thức dẫn tới sự mê tín cũng như dẫn tới sự phô trương quá tốn kém?
 
@@ -47,20 +47,20 @@ BÀN THỜ là công cụ thiện xảo về tâm linh giúp:
 - qua đó Làm Mạnh Mẽ hơn
   - sự gắn kết với cái NHÂN (nguồn gốc), cái NÔI (môi trường) sinh ra và hình thành nên con người mình
   - cuộc đời này luôn là NHÂN QUẢ, nhân mạnh thì quả lành
-  - \=> Luôn suy tưởng và gắn kết với cái nhân của gia tộc là một dịp để nhìn nhận lại chính mình và gia đình mình
+  - => Luôn suy tưởng và gắn kết với cái nhân của gia tộc là một dịp để nhìn nhận lại chính mình và gia đình mình
   - phát triển truyền thống và giá trị đạo đức gia đình mạnh mẽ hơn
 - từ đó gieo cái NHÂN MỚI cho chính mình và gia đình mình về
   - về Gắn Bó, Đoàn Kết và Yêu Thương giữa các thành viên gia đình.
   - về GIỚI ĐỊNH TUỆ cho cả gia tộc trở về sau,
-  - cũng là hổ trợ tổ tiên đời trước siêu thoát về cảnh lành.
+  - cũng là hỗ trợ tổ tiên đời trước siêu thoát về cảnh lành.
 
 ## Đâu là Kim Chỉ Nam?
 
-- Bàn thờ phải là công cụ thúc đẩy hành động không phải là hình thức hoặc sự phô trương và bị kẹt vào đó
+- Bàn thờ phải là công cụ thúc đẩy hành động, không nên sa vào hình thức hay sự phô trương tốn kém.
 - Bàn thờ phải là công cụ giúp việc thực hành NGHI THỨC CÚNG BÁI trở thành thói quen hằng ngày
 - Bàn thờ phải Là chốn An Bình, là nơi SINH KHÍ, là nơi Nuôi Dưỡng Niềm tin và sự Gắn kết
 - Bàn thờ phải là nơi thúc đẩy GIỚI – ĐỊNH – TUỆ của cả gia đình
-- Setup bàn thờ để mọi thành viên Dễ tiếp cận, thích gần gũi,
+- Setup bàn thờ để mọi thành viên Dễ tiếp cận, thích gần gũi.
 - Bàn thờ phải làm cho việc thờ cúng trở nên
   - Nghiêm túc
   - Có sức sống, Sạch sẽ, thoải mái
@@ -71,16 +71,14 @@ BÀN THỜ là công cụ thiện xảo về tâm linh giúp:
 
 ## Đâu là hành động cốt lõi quan trọng?
 
-- Việc đứng trước bàn thờ là thời khắc nhíp tâm giúp ta
+- Việc đứng trước bàn thờ là thời khắc nhiếp tâm giúp ta
   - suy nghĩ thấu đáo về những sự việc quan trọng
   - quy chiếu về những truyền thống, giá trị tốt đẹp của gia đình trước các quyết định lớn
 - Thờ cúng phải là việc chay tịnh, nghiêm túc
 - Mỗi ngày thành kính thắp hương, Hướng tâm về ông bà tổ tiên
 - Coi ông bà là điểm dựa tinh thần quan trọng (leverage point).
 - Nuôi dưỡng niềm tin rằng ông bà sẽ theo dõi, chỉ dẫn, bảo vệ chúng ta.
-- Làm gì cũng xin phép ông bà, nương tựa và nhờ ông bà hướng dẫn, chỉ lối và hổ trợ.
+- Làm gì cũng xin phép ông bà, nương tựa và nhờ ông bà hướng dẫn, chỉ lối và hỗ trợ.
   - Đi thưa về trình với ông Bà,
   - Luôn thắp hương trước những thời khắc quan trọng
   - Làm việc thiện Giúp ông bà tổ tiên siêu thoát về cảnh lành.
-
-[Leave a Comment](https://tinkerdrop.com/blog/ban-tho-nguon-sinh-khi-cua-gia-dinh#respond) / [Học](https://tinkerdrop.com/learn), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

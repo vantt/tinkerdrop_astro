@@ -8,8 +8,6 @@ tags: ["Học", "Học chơi với con"]
 published: true
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/con-nen-hoc-van-nhu-the-nao#respond) / [Học](https://tinkerdrop.com/learn), [Học chơi với con](https://tinkerdrop.com/learn/hoc-choi-voi-con) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
-
 Con mình may mắn được học với cô giáo luôn thẳng thắn trao đổi với hội phụ huynh về việc học của các con. Hôm nay cô có trao đổi việc các con nên học Văn như thế nào.
 
 Nhân tiện mình cũng có trăn trở về việc này. Ở đây mình mạo muội không dùng từ Học Văn mà dùng từ Học Viết.
@@ -18,7 +16,7 @@ Mình đã đọc nhiều ý kiến về việc học Văn. Cho dù các quan đ
 
 Mình chỉ muốn con hiểu: Viết là một công cụ (Tool) để truyền tải thông tin, xa hơn mới mong cầu việc truyền tải quan điểm. Nhưng trước tiên phải dùng tốt nó như một công cụ.
 
-Trong cuốn Homo Sapiens, tác giả nhấn mạnh Quần Thể Người có số lượng cá thể vượt trội hơn hẳn các loài động vật khác ở một khả năng: Bịa Chuyện. Dân gian gọi là Bà Tám, hay nói văn hoa là Hư Cấu Câu Truyện, tiếng Anh gọi là StoryTelling. Đây là năng lực tưởng tượng của con người. Hiểu sâu hơn là năng lực cảm nhận và mô tả thế giới xung quang một cách rất đa dạng.
+Trong cuốn Homo Sapiens, tác giả nhấn mạnh Quần Thể Người có số lượng cá thể vượt trội hơn hẳn các loài động vật khác ở một khả năng: Bịa Chuyện. Dân gian gọi là Bà Tám, hay nói văn hoa là Hư Cấu Câu Chuyện, tiếng Anh gọi là StoryTelling. Đây là năng lực tưởng tượng của con người. Hiểu sâu hơn là năng lực cảm nhận và mô tả thế giới xung quanh một cách rất đa dạng.
 
 Hơn nữa, loài người có khả năng truyền tải thế giới quan của mình một cách rất chi tiết. Đối với các loài khác, khi kẻ địch xuất hiện, chúng chỉ truyền được một thông điệp đơn giản là “có kẻ địch”. Con người có thể thông báo “kẻ địch có 4 chân, răng dài, chạy nhanh, đang ở gần suối”.
 
@@ -30,7 +28,7 @@ Một khi đã cảm nhận về thế giới, con người có nhu cầu truy�
 
 Vẽ là công cụ truyền tải thế giới quan qua cảm nhận của Mắt. Là cách mô tả thế giới bằng màu sắc và hình ảnh. Kể chuyện là sử dụng năng lực của Tai.
 
-Viết là công cụ gián tiếp của Kể Truyện. Viết là hình thức nghe bằng mắt. Đó là lý do không ngoa khi đức Phật gọi các đệ tử của ngài là Thanh Văn. Vì chúng ta, loài người, học bằng âm thanh là tốt nhất (theo lời Anan).
+Viết là công cụ gián tiếp của Kể Truyện. Viết là hình thức nghe bằng mắt. Đó là lý do không ngoa khi Đức Phật gọi các đệ tử của ngài là Thanh Văn. Vì chúng ta, loài người, học bằng âm thanh là tốt nhất (theo lời Anan).
 
 Chúng ta khi nói đến học Vẽ hay học Viết, thường liên tưởng nó như là một tác phẩm (Art), quên mất công dụng ban đầu của nó chính là để truyền đạt thông tin. Chúng ta thường hay tập trung vào tính nghệ thuật của nó hơn là tính nội dung.
 
@@ -49,6 +47,6 @@ Việc đầu tiên các con cần phải hiểu Viết là nhằm mục đích 
 
 Một tác dụng kinh khủng khác của Viết chính là giúp các con hiểu rõ hơn điều mình muốn truyền đạt. Chỉ khi viết ta mới bắt đầu cảm nhận là mình chưa hiểu gì về cái cần nói. Cấu trúc hay trật tự của ý tưởng thật là lung tung.
 
-Điều quan trọng nhất là thầy cô và phù huynh truyền cảm hứng để các con Viết nhiều. Giống như Vẽ nhiều vậy. Viết những thứ thật đơn giản, nhẹ nhàng, đừng đặt nặng về hình thức.
+Điều quan trọng nhất là thầy cô và phụ huynh truyền cảm hứng để các con Viết nhiều. Giống như Vẽ nhiều vậy. Viết những thứ thật đơn giản, nhẹ nhàng, đừng đặt nặng về hình thức.
 
-Viết nhiều thì có ngày cũng ra tác phẩm, đó là ẩn tướng của hình thái phi cấu trúc, cứ viết đi, miễn nhiều người đồng cảm là thành tác phẩm rồi.
+Viết nhiều thì có ngày cũng ra tác phẩm. Cứ viết đi, sự chân thành sẽ chạm đến trái tim người đọc, lúc đó tự khắc thành tác phẩm.

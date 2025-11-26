@@ -8,8 +8,6 @@ tags: ["Học", "Học yêu bản thân"]
 published: true
 ---
 
-[1 Comment](https://tinkerdrop.com/blog/hello-world#comments) / [Học](https://tinkerdrop.com/learn), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
-
 Hôm nay tôi viết bài đầu tiên, mặc dù chuyện này đã ấp ủ từ lâu.
 
 Vợ bảo tâm anh không bình an.
@@ -37,6 +35,6 @@ Học là tiếp thu và chuyến hoá _kiến thức mới_ thành _kỹ năng_
 
 Tôi đọc nhiều, nhưng chưa bao giờ thật sự ngồi lại đúc kết và suy ngẫm về những điều đó. Chưa nói là ứng dụng vào cuộc sống.
 
-Với bài viết này, tôi mở ra một chương mới cho chính mình. Tôi sẽ chiêm nghiệm nhiều hơn, viết nhiều hơn về những điều mình học, những việc mình làm. Tôi mong có thể chia sẽ kinh nghiệm với tất cả bạn bè, những người có nhiều băn khoăn giống tôi.
+Với bài viết này, tôi mở ra một chương mới cho chính mình. Tôi sẽ chiêm nghiệm nhiều hơn, viết nhiều hơn về những điều mình học, những việc mình làm. Tôi mong có thể chia sẻ kinh nghiệm với tất cả bạn bè, những người có nhiều băn khoăn giống tôi.
 
 Tôi tin rằng tâm trí chúng ta ngày sẽ càng sáng hơn, từ hôm nay.
