@@ -4,9 +4,8 @@ description: "Đừng để công cụ và phương pháp trở thành rào cả
 pubDate: "2020-02-27T17:00:00.000Z"
 updatedDate: "2021-02-10T17:00:00.000Z"
 heroImage: "./hammer-4773084_1280.jpg"
-tags: ["Học", "Học quyết định", "Path to Mastery", "Refine the Craft"]
-category: 'Học'
 published: true
+category: 'Học'
 ---
 
 > Nhiều người dành cả đời tìm kiếm cây đũa thần, một công cụ hoàn hảo giải quyết mọi vấn đề.

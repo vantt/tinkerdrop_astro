@@ -4,12 +4,11 @@ description: "Suy ngẫm về việc Lego dần đánh mất linh hồn sáng t�
 pubDate: "2018-11-28T08:21:12.000Z"
 updatedDate: "2019-01-04T08:21:12.000Z"
 heroImage: "./igor-sergeyev-1177182-unsplash.jpg"
-tags: ["Học chơi với con", "Học"]
-category: 'Học'
 published: true
+category: 'Học'
+tags: ["Học chơi với con"]
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/lego-is-now-a-disassembled-toy#respond) / [Học chơi với con](https://tinkerdrop.com/learn/hoc-choi-voi-con) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
 Nhân đọc [bài viết](https://austinkleon.com/2018/07/03/advertising-play-well) nói về tác động của nghề Sales và Marketing đã làm thay đổi linh hồn vốn có của trò chơi Lego, từ một huyền thoại là cái nôi nuôi dưỡng trí tưởng tượng, sự sáng tạo, nay Lego trở thành một khái niệm gọi là Disassembled Toys.
 

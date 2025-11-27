@@ -4,7 +4,6 @@ description: 'Nhiều năm trước, bắt đầu học Kanban, cũng không hi�
 pubDate: "2020-05-12T10:49:13.791Z"
 updatedDate: "2020-05-16T15:17:40.000Z"
 published: true
-tags: ["Học", "Học làm việc", "Học lập trình"]
 category: 'Học'
 ---
 

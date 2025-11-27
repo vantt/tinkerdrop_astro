@@ -4,9 +4,8 @@ description: "Thay vì coi Văn là môn học nghệ thuật, hãy xem Viết l
 pubDate: "2019-01-09T17:00:00.000Z"
 updatedDate: "2019-01-17T17:00:00.000Z"
 heroImage: "./pan-xiaozhen-423533-unsplash-scaled.jpg"
-tags: ["Học", "Học chơi với con"]
-category: 'Học'
 published: true
+category: 'Học'
 ---
 
 Con mình may mắn được học với cô giáo luôn thẳng thắn trao đổi với hội phụ huynh về việc học của các con. Hôm nay cô có trao đổi việc các con nên học Văn như thế nào.

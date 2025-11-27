@@ -4,9 +4,9 @@ description: "Tổng kết hành trình Ironman 70.3 Đà Nẵng 2019: 7 tiếng
 pubDate: "2019-05-11T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./sergio-souza-ttVkhv0Wd5A-unsplash-scaled.jpg"
-tags: ["Chơi", "Học yêu bản thân", "Path to Mastery", "Sharpen the Body"]
-category: 'Chơi'
 published: true
+category: 'Chơi'
+tags: ["Chơi","Học yêu bản thân","Path to Mastery","Sharpen the Body"]
 ---
 
 Ngày hôm nay, chỉ 7 tiếng ngắn ngủi. Nhưng nhờ nó mà định hình được một hành trình. Cũng nhờ nó mà được nhìn thấy nhiều nỗi sợ, sự hồi hộp, cũng như sự quyết tâm của rất nhiều con người, nhiều lứa tuổi.
@@ -21,4 +21,3 @@ Giờ đợi thằng cùng phòng về bàn kế hoạch ăn mừng.
 
 ![Ironman 2019](./ironman2019_tran_toan_van.jpg)
 
-[Leave a Comment](https://tinkerdrop.com/blog/2019-ironman-70-3-da-nang-finished#respond) / [Chơi](https://tinkerdrop.com/play), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than), [Path to Mastery](https://tinkerdrop.com/mastery), [Sharpen the Body](https://tinkerdrop.com/mastery/sharpen-body) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")

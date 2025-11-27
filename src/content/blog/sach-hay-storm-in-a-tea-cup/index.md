@@ -4,12 +4,11 @@ description: "Vũ trụ vận hành theo cùng một quy luật ở mọi quy m�
 pubDate: "2019-07-05T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./storm-in-a-tea-cup-hero.jpg"
-tags: ["Sách Hay"]
-category: 'Khác'
 published: true
+category: 'Khác'
+tags: ["Sách Hay"]
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/sach-hay-storm-in-a-tea-cup#respond) / [Sách Hay](https://tinkerdrop.com/sach-hay) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
 Đọc để thấy khoa học rất đời thường.  
 Đọc để thấy nhà khoa học kể truyện rất lôi cuốn.

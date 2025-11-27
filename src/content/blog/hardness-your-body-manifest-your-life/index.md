@@ -4,12 +4,11 @@ description: "Cơ thể là không gian duy nhất để tâm hồn trải nghi�
 pubDate: "2019-05-09T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./igor-rodrigues-6n4cDxbeINs-unsplash.jpg"
-tags: ["Chơi", "Học", "Học chơi với con", "Sharpen the Body"]
-category: 'Chơi'
 published: true
+category: 'Chơi'
+tags: ["Chơi","Học","Học chơi với con","Sharpen the Body"]
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/hardness-your-body-manifest-your-life#respond) / [Chơi](https://tinkerdrop.com/play), [Học](https://tinkerdrop.com/learn), [Học chơi với con](https://tinkerdrop.com/learn/hoc-choi-voi-con), [Sharpen the Body](https://tinkerdrop.com/mastery/sharpen-body) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
 My boy and girl,
 

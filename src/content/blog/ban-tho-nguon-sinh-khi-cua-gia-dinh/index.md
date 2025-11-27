@@ -4,9 +4,8 @@ description: "Bàn thờ gia tiên không chỉ là nơi thờ cúng mà còn l�
 pubDate: "2019-04-22T17:00:00.000Z"
 updatedDate: "2019-04-28T17:00:00.000Z"
 heroImage: "./maxresdefault.jpg"
-tags: ["Học", "Học yêu bản thân"]
-category: 'Học'
 published: true
+category: 'Học'
 ---
 
 Tôi có cô bạn rất thân, đã bỏ rất nhiều thời gian ra tận ngoài Bắc học về cách con người nên sống như thế nào cho đúng và hợp đạo lý. Trong khóa học đã được học rất nhiều về tổ tiên và nghi thức thờ cúng.

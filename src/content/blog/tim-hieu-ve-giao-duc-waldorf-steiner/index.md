@@ -4,12 +4,11 @@ description: "Khám phá giáo dục Waldorf Steiner: Tại sao nuôi dưỡng '
 pubDate: "2019-01-06T15:34:04.000Z"
 updatedDate: "2021-08-25T15:34:04.000Z"
 heroImage: "./FB_IMG_1531497842970.jpg"
-tags: ["Học", "Học chơi với con", "Học lập trình"]
-category: 'Học'
 published: true
+category: 'Học'
+tags: ["Học","Học chơi với con"]
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/tim-hieu-ve-giao-duc-steiner#respond) / [Học](https://tinkerdrop.com/learn), [Học chơi với con](https://tinkerdrop.com/learn/hoc-choi-voi-con) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
 ## Thực Tại Xã Hội
 

@@ -3,9 +3,8 @@ title: "Reading: Start With “What” – How To Ask Questions that Lead to Act
 description: "Asking WHY doesn’t typically end in an actions, WHAT does end in actions."
 pubDate: "2019-11-27T08:42:24.291Z"
 updatedDate: "2020-03-02T09:37:45.000Z"
-tags: ["My Reading"]
-category: 'Khác'
 published: true
+category: 'Khác'
 ---
 
 **Original Article:** [https://www.smamarketing.net/blog/start-with-what](https://www.smamarketing.net/blog/start-with-what)

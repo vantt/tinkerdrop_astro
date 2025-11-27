@@ -4,12 +4,11 @@ description: "Phân biệt giữa Mục tiêu (Goal) và Thói quen (System). T�
 pubDate: "2019-02-13T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./IMG_8147-236-scaled.jpg"
-tags: ["Conquer the Mind", "Học", "Học yêu bản thân", "Sharpen the Body"]
-category: 'Học'
 published: true
+category: 'Học'
+tags: ["Conquer the Mind","Học","Học yêu bản thân","Sharpen the Body"]
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/goal-vs-habit-system#respond) / [Conquer the Mind](https://tinkerdrop.com/mastery/conquer-mind), [Học](https://tinkerdrop.com/learn), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than), [Sharpen the Body](https://tinkerdrop.com/mastery/sharpen-body) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
 Goals as making a contract with yourself being unhappy until you reach the goal.  
 Compared to a person who naturally have results because they have a habit (system) set up.

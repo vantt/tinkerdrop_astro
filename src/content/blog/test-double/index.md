@@ -4,7 +4,6 @@ description: "Gerard Meszaros is working on a book to capture patterns for usi
 pubDate: "2016-07-22T10:44:40.149Z"
 updatedDate: "2020-02-25T04:09:18.000Z"
 published: true
-tags: ["Học", "Học lập trình", "Học yêu bản thân"]
 category: 'Học'
 ---
 

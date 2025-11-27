@@ -4,12 +4,11 @@ description: "Con người bị kiểm soát bởi những câu chuyện như th
 pubDate: "2019-07-06T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./storytelling-animal-hero.jpg"
-tags: ["Học kể truyện", "Refine the Craft", "Sách Hay"]
-category: 'Học'
 published: true
+category: 'Học'
+tags: ["Học kể truyện","Refine the Craft","Sách Hay"]
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/501#respond) / [Học kể truyện](https://tinkerdrop.com/learn/hoc-ke-truyen), [Refine the Craft](https://tinkerdrop.com/mastery/refine-craft), [Sách Hay](https://tinkerdrop.com/sach-hay) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
 Đọc Homo Sapiens chỉ có cảm nhận con người duy trì được quần thể đông hơn con thú ở chổ thích bà tám, thích kể chuyện phím.
 

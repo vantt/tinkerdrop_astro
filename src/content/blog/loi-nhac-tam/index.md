@@ -4,9 +4,8 @@ description: "Lời nhắc về sự cân bằng giữa Từ Bi và Trí Tuệ, 
 pubDate: "2019-10-08T17:00:00.000Z"
 updatedDate: "2020-07-08T17:00:00.000Z"
 heroImage: "./trevor-cole-8uJ8w9pL-y8-unsplash-scaled.jpg"
-tags: ["Conquer the Mind", "Học quyết định", "Path to Mastery"]
-category: 'Học'
 published: true
+category: 'Học'
 ---
 
 ## **Kiến Thủ là gì ?**

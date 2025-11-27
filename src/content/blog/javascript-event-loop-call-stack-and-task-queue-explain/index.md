@@ -4,9 +4,8 @@ description: "Xem ví dụ"
 pubDate: "2020-03-16T10:38:36.982Z"
 updatedDate: "2021-03-26T11:23:23.000Z"
 heroImage: "./event-loop-diagram.png"
-tags: ["Học", "Học lập trình"]
-category: 'Học'
 published: true
+category: 'Học'
 ---
 
 ![event-loop-diagram](./event-loop-diagram.png)

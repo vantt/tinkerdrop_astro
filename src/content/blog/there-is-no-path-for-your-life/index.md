@@ -4,12 +4,11 @@ description: "Đừng chạy theo thành công hay hạnh phúc nhất thời, h
 pubDate: "2019-05-15T17:00:00.000Z"
 updatedDate: "2020-02-11T17:00:00.000Z"
 heroImage: "./quino-al-366037-unsplash-scaled.jpg"
-tags: ["Học", "Học yêu bản thân"]
-category: 'Học'
 published: true
+category: 'Học'
+tags: ["Học","Học yêu bản thân"]
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/there-is-no-path-for-your-life#respond) / [Học](https://tinkerdrop.com/learn), [Học yêu bản thân](https://tinkerdrop.com/learn/hoc-yeu-ban-than) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
 ― on reading A Master’s Secret Whispers, **Kapil Gupta**
 

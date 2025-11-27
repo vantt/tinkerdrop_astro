@@ -3,9 +3,8 @@ title: "Reading: How do you learn to think?"
 description: "Why multitasking impairs your ability to think and how deep concentration leads to original ideas."
 pubDate: "2020-11-02T08:28:43.860Z"
 updatedDate: "2021-02-15T14:22:26.000Z"
-tags: ["My Reading"]
-category: 'Khác'
 published: true
+category: 'Khác'
 ---
 
 **Original Article**: [https://fs.blog/2015/08/how-to-think](https://fs.blog/2015/08/how-to-think)

@@ -4,16 +4,9 @@ description: "Đơn giản hóa cuộc sống bằng cách xác định điều 
 pubDate: "2019-09-20T17:00:00.000Z"
 updatedDate: "2020-02-20T17:00:00.000Z"
 heroImage: "./make-life-simple-hero.jpg"
-tags:
-category: 'Khác'
-  [
-    "Conquer the Mind",
-    "Học",
-    "Học quyết định",
-    "Học yêu bản thân",
-    "Path to Mastery",
-  ]
 published: true
+category: "Khác"
+tags: [ "Conquer the Mind", "Học", "Học quyết định", "Học yêu bản thân", "Path to Mastery"]
 ---
 
 \_\_ on reading **Your Life as Art, Robert Fritz**

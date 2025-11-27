@@ -4,12 +4,11 @@ description: "Góc nhìn của một Software Engineer về 'This Is Marketing'.
 pubDate: "2019-08-22T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./66217087_10156160948971246_2062269551227174912_n.jpg"
-tags: ["Học kể truyện", "Refine the Craft", "Sách Hay"]
-category: 'Học'
 published: true
+category: 'Học'
+tags: ["Học kể truyện","Refine the Craft","Sách Hay"]
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/sach-hay-this-is-marketing#respond) / [Học kể truyện](https://tinkerdrop.com/learn/hoc-ke-truyen), [Refine the Craft](https://tinkerdrop.com/mastery/refine-craft), [Sách Hay](https://tinkerdrop.com/sach-hay) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
 Là một software engineer, là kẻ ngoại đoại, không hiểu gì về marketing. Lớn lên trong thời kì mạng xã hội, thấy nhà nhà người người đi làm marketing. Mà tôi cũng chẳng hiểu làm marketing là làm gì. Chỉ thấy rõ 2 điều:
 

@@ -4,12 +4,11 @@ description: "Cha mẹ không nuôi dạy con cái, Tự Nhiên (thiên nhiên) 
 pubDate: "2019-05-28T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
 heroImage: "./parents-do-not-raise-children-nature-does-hero.jpg"
-tags: ["Conquer the Mind", "Học", "Học chơi với con"]
-category: 'Học'
 published: true
+category: 'Học'
+tags: ["Conquer the Mind","Học","Học chơi với con"]
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/parents-do-not-raise-children-nature-does#respond) / [Conquer the Mind](https://tinkerdrop.com/mastery/conquer-mind), [Học](https://tinkerdrop.com/learn), [Học chơi với con](https://tinkerdrop.com/learn/hoc-choi-voi-con) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
 — on Reading **ATMAMUN, Kapil Gupta**
 

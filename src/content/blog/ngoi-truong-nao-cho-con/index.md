@@ -4,12 +4,11 @@ description: "Những trăn trở khi chọn trường cho con trong thời đ�
 pubDate: "2019-01-05T17:00:00.000Z"
 updatedDate: "2019-08-22T08:41:37.000Z"
 heroImage: "./boy-child-field-1549974-scaled.jpg"
-tags: ["Học", "Học chơi với con", "Học lập trình"]
-category: 'Học'
 published: true
+category: 'Học'
+tags: ["Học","Học chơi với con"]
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/ngoi-truong-nao-cho-con#respond) / [Học](https://tinkerdrop.com/learn), [Học chơi với con](https://tinkerdrop.com/learn/hoc-choi-voi-con) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
 Đây là bài copy lại trên Facebook tôi đã đăng vào ngày [21/7/2017](https://www.facebook.com/photo.php?fbid=10154581783061246&set=a.10150500177321246&type=3&theater).
 

@@ -4,12 +4,11 @@ description: "Phân biệt Output, Outcome và Impact: Hiểu rõ sự khác bi�
 pubDate: "2021-02-15T15:41:49.000Z"
 updatedDate: "2021-02-15T15:41:49.000Z"
 heroImage: "./output-vs-outcome-vs-impact-hero.jpg"
-tags: ["My Reading"]
-category: 'Khác'
 published: true
+category: 'Khác'
+tags: ["My Reading"]
 ---
 
-[Leave a Comment](https://tinkerdrop.com/blog/reading-output-vs-outcome-vs-impact#respond) / [My Reading](https://tinkerdrop.com/my-reading) / By [vantt](https://tinkerdrop.com/author/vantt "View all posts by vantt")
 
 **Original Article:**
 

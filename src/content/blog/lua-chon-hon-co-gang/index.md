@@ -4,16 +4,9 @@ description: "Chúng ta thường ưu tiên hành động hơn là tư duy chi�
 pubDate: "2019-10-13T17:00:00.000Z"
 updatedDate: "2020-02-17T17:00:00.000Z"
 heroImage: "./victoriano-izquierdo-JG35CpZLfVs-unsplash-scaled.jpg"
-tags:
-category: 'Khác'
-  [
-    "Conquer the Mind",
-    "Học",
-    "Học quyết định",
-    "Học yêu bản thân",
-    "Path to Mastery",
-  ]
 published: true
+category: "Khác"
+tags: [ "Conquer the Mind", "Học", "Học quyết định", "Học yêu bản thân", "Path to Mastery"]
 ---
 
 > KẾT QUẢ chỉ có thể tốt nếu MỤC TIÊU đề ra cũng tốt y như thế.

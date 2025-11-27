@@ -4,10 +4,9 @@ description: "Từ niềm tự hào về hệ thống tagging phức tạp đế
 pubDate: "2019-07-16T08:48:50.687Z"
 updatedDate: "2019-07-16T16:38:19.000Z"
 heroImage: "./1_xgoysqs1OfNCYXlLYZZtuw.jpeg"
-tags:
-category: 'Học'
-  ["Học", "Học làm việc", "Làm", "Path to Mastery", "Refine the Craft", "Tools"]
 published: true
+category: 'Học'
+tags: ["Học", "Học làm việc", "Làm", "Path to Mastery", "Refine the Craft", "Tools"]
 ---
 
 ## Tagging, sự tự hào

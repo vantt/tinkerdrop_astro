@@ -4,9 +4,8 @@ description: "Bắt đầu hành trình tìm kiếm sự sáng suốt và bình 
 pubDate: "2016-05-11T17:00:00.000Z"
 updatedDate: "2019-01-03T17:00:00.000Z"
 heroImage: "./dylan-nolte-568419-unsplash.jpg"
-tags: ["Học", "Học yêu bản thân"]
-category: 'Học'
 published: true
+category: 'Học'
 ---
 
 Hôm nay tôi viết bài đầu tiên, mặc dù chuyện này đã ấp ủ từ lâu.

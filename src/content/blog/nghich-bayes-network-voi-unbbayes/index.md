@@ -4,7 +4,6 @@ description: "Link tải phần mềm"
 pubDate: "2016-07-22T10:44:40.149Z"
 updatedDate: "2020-02-28T05:19:09.000Z"
 published: true
-tags: ["Học", "Học làm việc", "Tools", "Học lập trình", "Làm", "Uncategorized"]
 category: 'Học'
 ---
 
