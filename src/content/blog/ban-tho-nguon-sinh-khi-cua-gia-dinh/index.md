@@ -3,7 +3,7 @@ title: "Bàn thờ, nguồn sinh khí của gia đình."
 description: "Bàn thờ gia tiên không chỉ là nơi thờ cúng mà còn là nguồn sinh khí, điểm tựa tâm linh nuôi dưỡng lòng biết ơn và sự gắn kết bền chặt giữa các thành viên trong gia đình."
 pubDate: "2019-04-22T17:00:00.000Z"
 updatedDate: "2019-04-28T17:00:00.000Z"
-heroImage: "./maxresdefault.jpg"
+heroImage: /blog-images/ban-tho-nguon-sinh-khi-cua-gia-dinh/maxresdefault.jpg
 published: true
 category: 'Học'
 ---
@@ -82,3 +82,4 @@ BÀN THỜ là công cụ thiện xảo về tâm linh giúp:
   - Đi thưa về trình với ông Bà,
   - Luôn thắp hương trước những thời khắc quan trọng
   - Làm việc thiện Giúp ông bà tổ tiên siêu thoát về cảnh lành.
+

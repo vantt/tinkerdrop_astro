@@ -3,7 +3,7 @@ title: "Những Người Thầy Của Tôi"
 description: "Những người thầy lớn - những 'Đạo Sư' đã dẫn dắt và định hình tư duy của tôi. Từ bài học về Nhân Quả của Đức Phật, Thầy Trần Việt Quân đến các mô hình tư duy hiện đại từ Shane Parrish hay Naval Ravikant."
 pubDate: "2019-04-22T17:00:00.000Z"
 updatedDate: "2019-07-07T17:00:00.000Z"
-heroImage: "./samuel-austin-438854-unsplash.jpg"
+heroImage: /blog-images/nhung-nguoi-thay-cua-toi/samuel-austin-438854-unsplash.jpg
 published: true
 category: 'Học'
 tags: ["Học","Học yêu bản thân"]
@@ -33,7 +33,7 @@ Tôi không là Phật tử, cũng chưa có ý định quy y. Tôi cũng chỉ 
 - Phật – Pháp – Tăng, ba báo vật lớn nhất của đời người (thầy giỏi, bạn tốt và sách hay)
 - Văn – Tư – Tu, phương pháp học hữu hiệu nhất.
 
-![Đức Phật Thích Ca](./duc-phat.jpg)
+![](/blog-images/nhung-nguoi-thay-cua-toi/duc-phat.jpg)
 
 ### Hòa thượng Tịnh Không
 
@@ -41,7 +41,7 @@ Tôi có duyên được nghe nhiều bài pháp của ngài. Nhưng tôi nghĩ 
 
 Nghe hòa thượng thuyết giảng, tôi được biết khá nhiều đến lời dạy của Phật mà sau này trở thành nguyên tắc sống và là kim chỉ Nam cuộc đời tôi.
 
-![Hòa thượng Tịnh Không](./hoa-thuong-tinh-khong.jpg)
+![](/blog-images/nhung-nguoi-thay-cua-toi/hoa-thuong-tinh-khong.jpg)
 
 ### Thầy Trần Việt Quân
 
@@ -55,7 +55,7 @@ Thầy luôn nhắn nhủ với mọi người:
 - Phật Pháp Tăng là bảo vật quý nhất thế gian
 - Văn-Tư-Tu là phương pháp học tuyệt vời nhất
 
-![Thầy Trần Việt Quân](./thay-tran-viet-quan.jpg)
+![](/blog-images/nhung-nguoi-thay-cua-toi/thay-tran-viet-quan.jpg)
 
 ### Cô Nguyễn Đoàn Kim Sơn
 
@@ -69,7 +69,7 @@ Hơn một năm sau tôi mới được học cô trọn một ngày, nhưng cô
 >
 > Chỉ khi nào đem được hạnh phúc chính đáng cho người khác, khi đó bản thân ta mới thật sự hạnh phúc.
 
-![Cô Nguyễn Đoàn Kim Sơn](./co-nguyen-dao-kim-son.jpg)
+![](/blog-images/nhung-nguoi-thay-cua-toi/co-nguyen-dao-kim-son.jpg)
 
 ### Shane Parrish – Farnamstreet
 
@@ -83,19 +83,20 @@ Tôi biết đến quy luật Nhân Quả theo cách tiếp cận của phương
 
 Và cuối cùng Farnamstreet giúp tôi hoàn tất một phát thảo đầu tiên về thế giới quan của chính mình.
 
-![Shane Parrish](./shane-parrish-farnamstreet.jpg)
+![](/blog-images/nhung-nguoi-thay-cua-toi/shane-parrish-farnamstreet.jpg)
 
 ### Kamal Ravikant
 
 What is the truth in this situation
 
-![Kamal Ravikant](./kamal-ravikant.png)
+![](/blog-images/nhung-nguoi-thay-cua-toi/kamal-ravikant.png)
 
 ### Naval Ravikant
 
 …
 
-![Naval Ravikant](./naval-ravikant.png)  
+![](/blog-images/nhung-nguoi-thay-cua-toi/naval-ravikant.png)  
 Alfred Adler (Life has no purpose)  
 Seth Godin/Bernadette Jiwa (Marketing can make change)  
 Garry Keller (The Focus Question)
+

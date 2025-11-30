@@ -3,7 +3,7 @@ title: "Make Life Simple"
 description: "Đơn giản hóa cuộc sống bằng cách xác định điều thực sự quan trọng và xây dựng thang giá trị cá nhân. Những suy ngẫm từ cuốn sách 'Your Life as Art' của Robert Fritz."
 pubDate: "2019-09-20T17:00:00.000Z"
 updatedDate: "2020-02-20T17:00:00.000Z"
-heroImage: "./make-life-simple-hero.jpg"
+heroImage: /blog-images/make-life-simple/make-life-simple-hero.jpg
 published: true
 category: "Khác"
 tags: [ "Conquer the Mind", "Học", "Học quyết định", "Học yêu bản thân", "Path to Mastery"]
@@ -32,4 +32,5 @@ Con người thường bị thúc đẩy bởi bản năng (drives), nhưng lạ
 
 Khi ta xác định được điều gì nằm ở vị trí cao nhất trong thang giá trị, chủ đề đó sẽ tự sắp xếp lại cuộc sống của ta. Hay chính xác hơn là ta sẽ tự sắp xếp cuộc sống của mình xoay quanh nó.
 
-![Enjoy Simple Life](./enjoy-simple-life.jpg)
+![](/blog-images/make-life-simple/enjoy-simple-life.jpg)
+

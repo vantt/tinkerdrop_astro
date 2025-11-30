@@ -3,7 +3,7 @@ title: "Con nên học Văn như thế nào?"
 description: "Thay vì coi Văn là môn học nghệ thuật, hãy xem Viết là công cụ tư duy và truyền tải thông tin. Bài viết chia sẻ góc nhìn về việc rèn luyện kỹ năng viết mạch lạc, rõ ràng và hiệu quả cho con."
 pubDate: "2019-01-09T17:00:00.000Z"
 updatedDate: "2019-01-17T17:00:00.000Z"
-heroImage: "./pan-xiaozhen-423533-unsplash-scaled.jpg"
+heroImage: /blog-images/con-nen-hoc-van-nhu-the-nao/pan-xiaozhen-423533-unsplash-scaled.jpg
 published: true
 category: 'Học'
 ---
@@ -50,3 +50,4 @@ Một tác dụng kinh khủng khác của Viết chính là giúp các con hi�
 Điều quan trọng nhất là thầy cô và phụ huynh truyền cảm hứng để các con Viết nhiều. Giống như Vẽ nhiều vậy. Viết những thứ thật đơn giản, nhẹ nhàng, đừng đặt nặng về hình thức.
 
 Viết nhiều thì có ngày cũng ra tác phẩm. Cứ viết đi, sự chân thành sẽ chạm đến trái tim người đọc, lúc đó tự khắc thành tác phẩm.
+

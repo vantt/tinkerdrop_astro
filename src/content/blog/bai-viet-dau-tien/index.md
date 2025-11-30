@@ -3,7 +3,7 @@ title: "Bài viết đầu tiên!"
 description: "Bắt đầu hành trình tìm kiếm sự sáng suốt và bình an trong tâm trí thông qua việc viết lách và chiêm nghiệm."
 pubDate: "2016-05-11T17:00:00.000Z"
 updatedDate: "2019-01-03T17:00:00.000Z"
-heroImage: "./dylan-nolte-568419-unsplash.jpg"
+heroImage: /blog-images/bai-viet-dau-tien/dylan-nolte-568419-unsplash.jpg
 published: true
 category: 'Học'
 ---
@@ -22,7 +22,7 @@ Tôi gọi tình trạng của mình là “unclear minded”, mặc dù tôi đ
 
 Hôm nay may mắn được đọc một tweet:
 
-[![](./Shane-Parrish-on-Twitter-Writing-is-often-the-process-by-which-you-realize-that-you-do-not-understand-what-you-are-talking-about-.png)](https://twitter.com/farnamstreet/status/1066351268459819010)
+[![](/blog-images/bai-viet-dau-tien/Shane-Parrish-on-Twitter-Writing-is-often-the-process-by-which-you-realize-that-you-do-not-understand-what-you-are-talking-about-.png)](https://twitter.com/farnamstreet/status/1066351268459819010)
 
 Mọi thứ đối với tôi như bừng tỉnh.
 
@@ -38,3 +38,4 @@ Tôi đọc nhiều, nhưng chưa bao giờ thật sự ngồi lại đúc kết
 Với bài viết này, tôi mở ra một chương mới cho chính mình. Tôi sẽ chiêm nghiệm nhiều hơn, viết nhiều hơn về những điều mình học, những việc mình làm. Tôi mong có thể chia sẻ kinh nghiệm với tất cả bạn bè, những người có nhiều băn khoăn giống tôi.
 
 Tôi tin rằng tâm trí chúng ta ngày sẽ càng sáng hơn, từ hôm nay.
+

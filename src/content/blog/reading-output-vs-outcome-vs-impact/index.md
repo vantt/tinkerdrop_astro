@@ -3,7 +3,7 @@ title: "Reading: Output vs Outcome vs Impact"
 description: "Phân biệt Output, Outcome và Impact: Hiểu rõ sự khác biệt giữa hoàn thành công việc, giải quyết vấn đề cho khách hàng và mang lại tác động kinh doanh."
 pubDate: "2021-02-15T15:41:49.000Z"
 updatedDate: "2021-02-15T15:41:49.000Z"
-heroImage: "./output-vs-outcome-vs-impact-hero.jpg"
+heroImage: /blog-images/reading-output-vs-outcome-vs-impact/output-vs-outcome-vs-impact-hero.jpg
 published: true
 category: 'Khác'
 tags: ["My Reading"]
@@ -26,6 +26,7 @@ tags: ["My Reading"]
   Đó có thể là một tập trung hợp lý trong một thời gian nhất định. Nhưng phải nhớ một tổ chức tập trung vào giải quyết các vấn đề của chính mình thì không có thời gian để giải quyết cho khách hàng của mình. Làm điều đó quá lâu và bạn sẽ đánh mất khách hàng của mình.
   _Hãy luôn nhớ: **Mục đích của tổ chức của bạn khi bắt đầu là gì?**_
 
-![Output vs Outcome vs Impact](./output-vs-outcome-vs-impact-diagram1.png)
+![](/blog-images/reading-output-vs-outcome-vs-impact/output-vs-outcome-vs-impact-diagram1.png)
 
 > [Output vs Outcome vs Impact](https://blog.crisp.se/2019/10/16/christopheachouiantz/output-vs-outcome-vs-impact)
+

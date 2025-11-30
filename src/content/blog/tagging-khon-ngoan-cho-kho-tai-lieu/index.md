@@ -3,7 +3,7 @@ title: "Tagging khôn ngoan cho kho tài liệu"
 description: "Từ niềm tự hào về hệ thống tagging phức tạp đến sự giác ngộ về sức mạnh của cấu trúc thư mục truyền thống. Bài viết khám phá những hạn chế của tagging trong quản lý tri thức cá nhân (PKM) và lý do tại sao não bộ chúng ta lại hoạt động hiệu quả hơn với phương pháp tổ chức dựa trên ngữ cảnh."
 pubDate: "2019-07-16T08:48:50.687Z"
 updatedDate: "2019-07-16T16:38:19.000Z"
-heroImage: "./1_xgoysqs1OfNCYXlLYZZtuw.jpeg"
+heroImage: /blog-images/tagging-khon-ngoan-cho-kho-tai-lieu/1_xgoysqs1OfNCYXlLYZZtuw.jpeg
 published: true
 category: 'Học'
 tags: ["Học", "Học làm việc", "Làm", "Path to Mastery", "Refine the Craft", "Tools"]
@@ -15,7 +15,7 @@ Tôi là Knowledge Worker. Có chút thành tựu là nhờ vào kho lưu trữ 
 
 Tôi hãnh diện về độ chi tiết mà mình đã dày công mô tả cho rất nhiều thông tin được lưu trữ. Tôi cảm thấy khó hiểu và hơi tự cao đối với những người vẫn dùng phương pháp lưu trữ tuyền thống theo kiểu thư mục.
 
-![Tôi hãnh diện về độ chi tiết mà mình đã dày công mô tả cho rất nhiều thông tin được lưu trữ...](./universal-taxonomy.jpg)
+![](/blog-images/tagging-khon-ngoan-cho-kho-tai-lieu/universal-taxonomy.jpg)
 
 Cho tới ngày tham gia khóa học [Build a Second Brain](https://www.buildingasecondbrain.com/), tôi nhận ra:
 
@@ -61,7 +61,7 @@ Nói đơn giản chúng ta nhờ môi trường xung quanh để lưu trữ và
 
 Ví như khi đi rừng, chúng ta không thể nhớ hết tất cả lộ trình mình đã đi qua có những đặc điểm gì, có bao nhiêu ngã rẻ… Nhưng chỉ cần chúng ta đi theo từng chặng, ở mỗi chặn, cứ nhìn vào cảnh vật xung quanh, chúng ta lại nhận ra là mình nên đi theo hướng nào để đến chặn tiếp theo.
 
-![Người đi rừng định hướng bằng dấu hiệu tự nhiên](./hiker-forest.jpg)
+![](/blog-images/tagging-khon-ngoan-cho-kho-tai-lieu/hiker-forest.jpg)
 
 Đây là cách mà não của chúng ta đã được rèn luyện từ bao đời, từ thời còn chưa có đường xá thuận lợi dễ dàng, từ thời còn là những động vật nguyên sơ phải di chuyển trong rừng rậm. Bằng cách hạn chế thông tin chỉ được kích hoạt ở một môi trường cụ thể nào đó, ta đã khắc phục được hạn chế về trí nhớ của mình.
 
@@ -75,7 +75,7 @@ Các ứng dụng quản lý tài liệu hiện nay hổ trợ việc đánh tag
 
 Điều này dẫn tới số lượng tag phát sinh quá mức. Các tag trùng hoặc tag không hoàn chỉnh cũng được tạo ra một cách tùy tiện.
 
-![Hộc tủ lộn xộn với hàng ngàn thẻ tag](./chaotic-tags.jpg)
+![](/blog-images/tagging-khon-ngoan-cho-kho-tai-lieu/chaotic-tags.jpg)
 
 ## Vậy chúng ta nên làm gì?
 
@@ -88,3 +88,4 @@ Quan trọng không phải bao nhiêu thông tin được nhập vào hệ thố
 Hãy đánh tag tài liệu của mình để định hướng khi nào chúng sẽ được xài, cho cái gì và bằng cách nào.
 
 Tôi sẽ có bài viết khác mô tả chi tiết hơn hệ thống đánh tag của tôi đã thay đổi như thế nào.
+

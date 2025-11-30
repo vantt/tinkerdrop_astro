@@ -12,3 +12,4 @@ Nhiều năm trước, bắt đầu học Kanban, cũng không hiểu lắm, may
 Sau nhiều năm cập nhật lại, gặp được bài có cách giải thích tương tự, với nhiều phần thấu đáo hơn.
 
 **[Kanban board!](https://www.slideshare.net/GiulioRoggero/kanban-board-82363781 "Kanban board!")** from **[Giulio Roggero](https://www.slideshare.net/GiulioRoggero)**
+

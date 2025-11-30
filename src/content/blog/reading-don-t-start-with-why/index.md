@@ -15,3 +15,4 @@ category: 'Khác'
 - **“start with why” is merely a retrospect observation**.
 - In the vast majority of cases, starting with why is a fertile ground for some of the most boring, unauthentic and inefficient messaging, such as: “_to make the world a better place_”, “_to revolutionize the industry_”, “to help our clients grow”, etc.
 - “Why” is a vague term that is very easy to understand, but very difficult to build strong brands with.
+

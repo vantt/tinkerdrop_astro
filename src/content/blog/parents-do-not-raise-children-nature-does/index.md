@@ -3,7 +3,7 @@ title: "Parents do not raise children, NATURE DOES"
 description: "Cha mẹ không nuôi dạy con cái, Tự Nhiên (thiên nhiên) làm điều đó. Hãy tạo môi trường bình an, thấu hiểu và tự do để con tự mình khôn lớn thay vì can thiệp quá sâu."
 pubDate: "2019-05-28T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
-heroImage: "./parents-do-not-raise-children-nature-does-hero.jpg"
+heroImage: /blog-images/parents-do-not-raise-children-nature-does/parents-do-not-raise-children-nature-does-hero.jpg
 published: true
 category: 'Học'
 tags: ["Conquer the Mind","Học","Học chơi với con"]
@@ -33,4 +33,5 @@ If you create an environment of silence, the child will become averse to the wor
 
 If you create an environment of freedom, the child will have the courage to find his own way.
 
-![Parents do not raise children, NATURE DOES](./parents-do-not-raise-children-nature-does.jpg)
+![](/blog-images/parents-do-not-raise-children-nature-does/parents-do-not-raise-children-nature-does.jpg)
+

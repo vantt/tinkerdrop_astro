@@ -20,3 +20,4 @@ The generic term he uses is a [Test Double](http://xunitpatterns.com/Test%20Dou
 ## References
 
 - [http://www.martinfowler.com/bliki/TestDouble.html](http://www.martinfowler.com/bliki/TestDouble.html)
+

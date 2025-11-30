@@ -20,3 +20,4 @@ category: 'Khác'
 > — William Deresiewicz
 
 > [How to Think: The Skill You’ve Never Been Taught](https://fs.blog/2015/08/how-to-think/)
+

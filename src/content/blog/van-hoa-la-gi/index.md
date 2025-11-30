@@ -3,7 +3,7 @@ title: "Văn Hóa Là Gì?"
 description: "Văn hóa là gì? Tìm hiểu góc nhìn mới về văn hóa: không chỉ là kiến thức, mà là sự chuyển hóa bản thân qua việc thực hành những điều hay lẽ phải."
 pubDate: "2019-04-25T17:00:00.000Z"
 updatedDate: "2019-04-28T17:00:00.000Z"
-heroImage: "./oriento-742749-unsplash.jpg"
+heroImage: /blog-images/van-hoa-la-gi/oriento-742749-unsplash.jpg
 published: true
 category: 'Học'
 tags: ["Học","Học yêu bản thân"]
@@ -27,3 +27,4 @@ Văn Hóa nên hiểu là thực hành, áp dụng, những lời dạy về đi
 Người có Văn Hóa là người phải áp dụng được những thứ mình học vào làm thay đổi bản thân mình. Người có Văn Hóa đã chuyển hóa được bản thân mình.
 
 Tương tự , Gia Đình Văn Hóa là gia đình đã đưa được những giá trị truyền thống tốt đẹp vào chuyển hóa những thành viên trong gia đình mình.
+

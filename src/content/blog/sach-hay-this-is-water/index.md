@@ -3,12 +3,12 @@ title: "Sách Hay: This is Water"
 description: "Giáo dục thực sự là học cách kiểm soát sự chú ý và thoát khỏi 'cấu hình mặc định'. Bài học từ David Foster Wallace về sự tỉnh thức trước những điều hiển nhiên nhất: 'Đây là nước'."
 pubDate: "2019-07-09T17:00:00.000Z"
 updatedDate: "2021-09-09T17:00:00.000Z"
-heroImage: "./this-is-water-hero.jpg"
+heroImage: /blog-images/sach-hay-this-is-water/this-is-water-hero.jpg
 published: true
 category: 'Học'
 ---
 
-![What the hell is water](./what-the-hell-is-water.jpg)
+![](/blog-images/sach-hay-this-is-water/what-the-hell-is-water.jpg)
 
 Có hai chàng cá trẻ đang bơi tung tăng thì gặp một cụ cá lớn tuổi bơi ngược chiều. Cụ gật đầu chào và hỏi: _"Chào mấy chú, nước hôm nay thế nào?"_ ("Morning, boys. How’s the water?"). Hai chàng cá tiếp tục bơi một đoạn, rồi một cậu nhìn sang cậu kia và thắc mắc: _"Nước là cái quái gì vậy?"_ ("What the hell is water?").
 
@@ -57,4 +57,5 @@ Giá trị thật sự của giáo dục chả liên quan tí gì tới mớ ki�
 Chúng ta phải tự nhắc nhở mình mỗi ngày:
 **"Đây là nước."**
 
-![This is Water by David Foster Wallace](./this-is-water-by-david-foster-wallace.jpg)
+![](/blog-images/sach-hay-this-is-water/this-is-water-by-david-foster-wallace.jpg)
+
