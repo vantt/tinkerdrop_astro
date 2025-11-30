@@ -3,7 +3,7 @@ title: "Sách Hay: This is Marketing"
 description: "Góc nhìn của một Software Engineer về 'This Is Marketing'. Cuốn sách định nghĩa lại Marketing không phải là chiêu trò hay quảng cáo, mà là nghệ thuật thấu hiểu, kể chuyện và tạo ra sự thay đổi tích cực."
 pubDate: "2019-08-22T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
-heroImage: "./66217087_10156160948971246_2062269551227174912_n.jpg"
+heroImage: /blog-images/sach-hay-this-is-marketing/66217087_10156160948971246_2062269551227174912_n.jpg
 published: true
 category: 'Học'
 tags: ["Học kể truyện","Refine the Craft","Sách Hay"]
@@ -23,7 +23,7 @@ Nếu người người nhà nhà đều coi google/facebook như là một năn
 
 Cho đến khi tôi đọc This Is Marketing. Nó cho một cảm hứng thật sự.
 
-[![](./66217087_10156160948971246_2062269551227174912_n-212x300.jpg)](https://www.amazon.com/This-Marketing-Cant-Until-Learn-ebook/dp/B07DBR1V9S)
+[![](/blog-images/sach-hay-this-is-marketing/66217087_10156160948971246_2062269551227174912_n-212x300.jpg)](https://www.amazon.com/This-Marketing-Cant-Until-Learn-ebook/dp/B07DBR1V9S)
 
 —-
 
@@ -49,3 +49,4 @@ Chỉ sau thời gian ngắn, những chiến binh được mệnh danh là The 
 This is an Artist way.
 
 Đọc để có cảm hứng mới về Marketing như môt thủ pháp để hiểu, để kể chuyện, để tạo ra thay đổi, để làm customer centric như người người nhà nhà đang lại rủ nhau đi làm.
+

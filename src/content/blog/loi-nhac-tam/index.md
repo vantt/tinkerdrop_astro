@@ -3,7 +3,7 @@ title: "Lời nhắc Tâm"
 description: "Lời nhắc về sự cân bằng giữa Từ Bi và Trí Tuệ, giúp vượt qua Kiến Thủ và giữ tâm rộng mở trên hành trình tu tập."
 pubDate: "2019-10-08T17:00:00.000Z"
 updatedDate: "2020-07-08T17:00:00.000Z"
-heroImage: "./trevor-cole-8uJ8w9pL-y8-unsplash-scaled.jpg"
+heroImage: /blog-images/loi-nhac-tam/trevor-cole-8uJ8w9pL-y8-unsplash-scaled.jpg
 published: true
 category: 'Học'
 ---
@@ -22,7 +22,7 @@ Tất cả các con đường tâm linh đều muốn đem lại điều tốt �
 
 Tôi có nổi sợ trước những ám thị mang tính vô hình như vậy. Tôi không nhìn ra người ta có lợi ích gì từ những ám thị này. Nhưng chính chúng ta, những con người thực hành theo các con đường tâm linh đang nuôi dưỡng một lòng tham vi tế hơn, đang mong muốn và nuôi dưỡng một tự ngã trở nên siêu việt hơn.
 
-![sự khao khát, tham vọng và mê đắm muốn trở thành phiên bản "siêu việt"](./self-transcendent.jpg)
+![](/blog-images/loi-nhac-tam/self-transcendent.jpg)
 
 Mình có niềm tin chắc chắn Tâm là chủ thể chính đưa ta vững bước trên con đường tâm linh. Phải luôn tâm niệm bảo vệ sự thuần khiết của Tâm, nó chính là Huệ Mạng của người hành giả. Phải luôn giữ Tâm trên con đường Chánh Kiến và đặc biệt không được đóng nó lại.
 
@@ -36,7 +36,7 @@ Dưới Đây là điều nhắc nhở dành cho Tâm mỗi khi mình bắt đ�
 
 Vì có lòng từ bi nên bạn đến làm việc tại một bệnh viện hay trại tế bần. Nhưng bạn thấy rằng có nhiều quan liêu ở đó và bạn không thể làm những điều mà mình muốn. Bạn thấy mình cần đấu tranh chống lại hệ thống làm việc ở đó, và rồi bạn kiệt sức bởi sự cố gắng của mình. Bạn kết luận rằng lòng từ bi của mình không được sử dụng theo một phương cách tốt nhất. Rồi bạn bỏ cuộc.
 
-![Làm từ thiện nhưng thiếu Trí tuệ](./tu-thien-voi-dinh-mac.jpg)
+![](/blog-images/loi-nhac-tam/tu-thien-voi-dinh-mac.jpg)
 
 Bởi vì chúng ta suy nghĩ các thứ phải nên như thế này hay như thế kia, rồi khi nó không giống như vậy thì chúng ta thất vọng; và tâm trạng thất vọng đã che mờ sự sáng suốt mà chúng ta cần có cho tình huống. Không có trí tuệ, khiến ta bám chặt vào từ ngữ, định kiến của riêng mình hoặc chấp chặt vào một vấn đề nào đó mà chúng ta nghĩ là quan trọng.
 
@@ -60,4 +60,5 @@ _Trí tuệ thực sự là nhìn thấy trực tiếp và tự mình hiểu_. �
 
 Người làm được điều này chắc chắn là khôn ngoan và cuối cùng đến gần với hiểu biết chân chính.
 
-![tri tuệ là sự cởi mở giúp chúng ta thấy được những gì là cốt tủy và hữu hiệu nhất](./tri-tue-that-su.jpg)
+![](/blog-images/loi-nhac-tam/tri-tue-that-su.jpg)
+

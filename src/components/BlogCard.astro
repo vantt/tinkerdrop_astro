@@ -13,15 +13,24 @@ const { post } = Astro.props;
   <a href={`/blog/${post.slug}/`} class="block">
     <div class="aspect-video relative overflow-hidden rounded-md">
       {
-        post.data.heroImage && (
-          <Image
-            src={post.data.heroImage}
-            alt={post.data.title}
-            width={720}
-            height={405}
-            class="object-cover w-full h-full absolute inset-0 hover:scale-105 transition-transform duration-300"
-          />
-        )
+        post.data.heroImage &&
+          (typeof post.data.heroImage === "string" ? (
+            <img
+              src={post.data.heroImage}
+              alt={post.data.title}
+              width={720}
+              height={405}
+              class="object-cover w-full h-full absolute inset-0 hover:scale-105 transition-transform duration-300"
+            />
+          ) : (
+            <Image
+              src={post.data.heroImage}
+              alt={post.data.title}
+              width={720}
+              height={405}
+              class="object-cover w-full h-full absolute inset-0 hover:scale-105 transition-transform duration-300"
+            />
+          ))
       }
     </div>
   </a>

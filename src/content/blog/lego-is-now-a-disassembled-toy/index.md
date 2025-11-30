@@ -3,7 +3,7 @@ title: "Lego is now a Disassembled Toy"
 description: "Suy ngẫm về việc Lego dần đánh mất linh hồn sáng tạo khi chuyển mình thành những mô hình lắp ráp định sẵn. Bài viết cổ vũ cha mẹ hãy để trí tưởng tượng của con bay bổng với những mảnh ghép tự do thay vì bị giới hạn bởi các bộ Lego theo chủ đề."
 pubDate: "2018-11-28T08:21:12.000Z"
 updatedDate: "2019-01-04T08:21:12.000Z"
-heroImage: "./igor-sergeyev-1177182-unsplash.jpg"
+heroImage: /blog-images/lego-is-now-a-disassembled-toy/igor-sergeyev-1177182-unsplash.jpg
 published: true
 category: 'Học'
 tags: ["Học chơi với con"]
@@ -14,7 +14,7 @@ Nhân đọc [bài viết](https://austinkleon.com/2018/07/03/advertising-play-w
 
 Bài viết đề cập năm 1974, Lego đã tung một quảng cáo rất hay, thể hiện linh hồn vốn có của nó, đề cao trí tưởng tượng, không phân biệt bé trai hay gái. Trò chơi vốn dĩ là trò chơi, con chơi theo cách của con, theo trí tưởng tượng của con, trai gái như nhau.
 
-![Letter from Lego](./lego_letter.jpg)
+![](/blog-images/lego-is-now-a-disassembled-toy/lego_letter.jpg)
 
 > “It’s the imagination that counts. Not skill. You build whatever comes to your mind, the way you want it.”
 
@@ -31,7 +31,7 @@ Và như tác giả bài viết đã dùng một ẩn dụ rất hay.
 
 Trong phương pháo giáo dục của Waldorf, người ta hay dùng những con búp bê rất đơn giản, thậm chí không có khuôn mặt. Khi đó trí tưởng tượng của con sẽ làm cho búp bê trở nên sống động hơn, và con có thể chơi theo bất kỳ cách nào con muốn. Nếu con bạn chơi một búp bê tuyệt hảo như Barbie, trí tưởng tượng của con chỉ dừng lại ở cái vẻ đẹp đinh sẵn đó thôi. Đó gọi là sự áp đặt.
 
-![Waldorf Steiner Dolls](./waldorf-steiner-dolls.png)
+![](/blog-images/lego-is-now-a-disassembled-toy/waldorf-steiner-dolls.png)
 
 Hãy mua cho con vài kí Lego và hạn chế con coi các set được thiết kế sẵn. Khi đó con sẽ tự do là nhà sáng chế bay bổng theo trí tưởng tượng của mình.
 
@@ -41,3 +41,4 @@ Các bài viết tham khảo khác:
 - [https://www.nytimes.com/2012/12/23/opinion/sunday/gender-based-toy-marketing-returns.html](https://www.nytimes.com/2012/12/23/opinion/sunday/gender-based-toy-marketing-returns.html)
 - [https://www.snopes.com/fact-check/equa-lego-ty/](https://www.snopes.com/fact-check/equa-lego-ty/)
 - [https://www.nytimes.com/2014/11/23/magazine/how-disney-turned-frozen-into-a-cash-cow.html?\_r=0](https://www.nytimes.com/2014/11/23/magazine/how-disney-turned-frozen-into-a-cash-cow.html?_r=0)
+

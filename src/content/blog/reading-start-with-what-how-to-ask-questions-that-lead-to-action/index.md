@@ -20,3 +20,4 @@ category: 'Khác'
 - WHY is open-ended, but WHAT gets to the action. It’s about now
 - WHY _leave room for interpretation_. WHAT _gets right to the actions_
 - WHY lead to emotion, defensive and a loop, WHAT is lead to Actions and growth
+

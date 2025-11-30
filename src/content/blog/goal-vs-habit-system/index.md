@@ -3,7 +3,7 @@ title: "Goal vs Habit (System)"
 description: "Phân biệt giữa Mục tiêu (Goal) và Thói quen (System). Tại sao bạn cần xây dựng hệ thống thói quen để đạt được thành công bền vững thay vì chỉ đặt ra những mục tiêu ngắn hạn."
 pubDate: "2019-02-13T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
-heroImage: "./IMG_8147-236-scaled.jpg"
+heroImage: /blog-images/goal-vs-habit-system/IMG_8147-236-scaled.jpg
 published: true
 category: 'Học'
 tags: ["Conquer the Mind","Học","Học yêu bản thân","Sharpen the Body"]
@@ -46,3 +46,4 @@ and eventually leads to good output measures.
 
 An achieved goal is a stepping stone to the next, more challenging goal.  
 A habit is an asset that carries from goal to goal.
+
