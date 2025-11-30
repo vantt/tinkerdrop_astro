@@ -3,7 +3,7 @@ title: "Ngôi trường nào cho con?"
 description: "Những trăn trở khi chọn trường cho con trong thời đại số: Liệu kiến thức hay trí tưởng tượng mới là hành trang quan trọng nhất để trẻ thích ứng với thế giới tương lai?"
 pubDate: "2019-01-05T17:00:00.000Z"
 updatedDate: "2019-08-22T08:41:37.000Z"
-heroImage: "./boy-child-field-1549974-scaled.jpg"
+heroImage: /blog-images/ngoi-truong-nao-cho-con/boy-child-field-1549974-scaled.jpg
 published: true
 category: 'Học'
 tags: ["Học","Học chơi với con"]
@@ -33,7 +33,7 @@ Chúng phải có khả năng linh hoạt, chúng phải có khả năng thích 
 
 Với trí tưởng tượng chúng có thể tự thiết kế nên thế giới của chính mình và khi đó máy móc sẽ làm phần lớn công việc còn lại.
 
-![Knowledge is not power, imagination is](./knowledge-is-not-power-imagination-is.jpg)
+![](/blog-images/ngoi-truong-nao-cho-con/knowledge-is-not-power-imagination-is.jpg)
 
 ### Vậy ngôi trường nào cho con?
 
@@ -42,3 +42,4 @@ Thật là khó quyết định khi cái hệ thống giáo dục cũ vẫn ám 
 > KNOWLEDGE ISN’T POWER
 >
 > IMAGINATION IS
+

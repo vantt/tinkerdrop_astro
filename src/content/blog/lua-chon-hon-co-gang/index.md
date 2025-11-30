@@ -3,7 +3,7 @@ title: "Lựa Chọn hơn Cố Gắng"
 description: "Chúng ta thường ưu tiên hành động hơn là tư duy chiến lược. Bài viết này nhắc nhở rằng nỗ lực chỉ có ý nghĩa khi được đặt vào đúng mục tiêu, và tầm quan trọng của việc tự vấn về mục đích thực sự trước khi dốc sức."
 pubDate: "2019-10-13T17:00:00.000Z"
 updatedDate: "2020-02-17T17:00:00.000Z"
-heroImage: "./victoriano-izquierdo-JG35CpZLfVs-unsplash-scaled.jpg"
+heroImage: /blog-images/lua-chon-hon-co-gang/victoriano-izquierdo-JG35CpZLfVs-unsplash-scaled.jpg
 published: true
 category: "Khác"
 tags: [ "Conquer the Mind", "Học", "Học quyết định", "Học yêu bản thân", "Path to Mastery"]
@@ -59,3 +59,4 @@ Làm việc tận tụy không phải là chạy từ cuộc họp này tới cu
 > [How We Prefer to Act Rather Than Think](https://www.theschooloflife.com/thebookoflife/how-we-prefer-to-act-rather-than-think/)
 
 http://tramdoc.vn/tin-tuc/mot-goc-nhin-khac-ve-tu-duy-chien-luoc-tai-sao-chung-ta-thuong-de-tay-nhanh-hon-nao-nGnyoW.html
+

@@ -6,10 +6,18 @@ import vercel from "@astrojs/vercel";
 
 import { remarkYoutube } from "./src/plugins/remark-youtube.js";
 
+import keystatic from '@keystatic/astro';
+import react from '@astrojs/react';
+import node from '@astrojs/node';
+
+const adapter = process.env.VERCEL ? vercel() : node({mode: 'standalone'});
+
 // https://astro.build/config
 export default defineConfig({
   site: "https://tinkerdrop.com",
-  adapter: process.env.VERCEL ? vercel() : undefined,
+  output: 'server',
+  adapter,
+  integrations: [react(), keystatic()],
   image: {
     // Enable image optimization
     service: {

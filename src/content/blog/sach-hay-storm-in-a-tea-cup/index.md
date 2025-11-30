@@ -3,7 +3,7 @@ title: "Sách Hay: Storm In A Tea Cup"
 description: "Vũ trụ vận hành theo cùng một quy luật ở mọi quy mô. Cuốn sách dẫn dắt bạn từ tách trà nhỏ đến những cơn bão lớn, khám phá vẻ đẹp của vật lý hiện hữu trong từng khoảnh khắc đời thường."
 pubDate: "2019-07-05T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
-heroImage: "./storm-in-a-tea-cup-hero.jpg"
+heroImage: /blog-images/sach-hay-storm-in-a-tea-cup/storm-in-a-tea-cup-hero.jpg
 published: true
 category: 'Khác'
 tags: ["Sách Hay"]
@@ -27,4 +27,5 @@ Từ cơn bão được quan sát ngoài vũ trụ, đến tách trà chúng ta 
 
 Rất rất nhiều những câu truyện khác. Cùng một bản chất, cùng một quy luật, thiên nhiên đã sử dụng nó cho nhiều mục đích khác nhau, đôi khi lại trái ngược nhau hoàn toàn.
 
-![Storm In A Tea Cup](./storm-in-a-tea-cup-book.jpg)
+![](/blog-images/sach-hay-storm-in-a-tea-cup/storm-in-a-tea-cup-book.jpg)
+

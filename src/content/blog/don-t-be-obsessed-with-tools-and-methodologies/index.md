@@ -3,7 +3,7 @@ title: "Don’t be obsessed with Tools and Methodologies"
 description: "Đừng để công cụ và phương pháp trở thành rào cản. Thay vì tìm kiếm 'cây đũa thần', hãy tập trung vào mục tiêu và sáng tạo giải pháp phù hợp với hoàn cảnh của chính bạn."
 pubDate: "2020-02-27T17:00:00.000Z"
 updatedDate: "2021-02-10T17:00:00.000Z"
-heroImage: "./hammer-4773084_1280.jpg"
+heroImage: /blog-images/don-t-be-obsessed-with-tools-and-methodologies/hammer-4773084_1280.jpg
 published: true
 category: 'Học'
 ---
@@ -27,3 +27,4 @@ Bất kì phương pháp nào cũng không đúng trong mọi trường hợp. N
 > Điều quan trọng là phải hiểu rõ mục tiêu và tầm nhìn công việc. Phải nắm rõ được thực tại của bản thân. Hoàn cảnh của ta có những đặc điểm cụ thể cá biệt gì so với người khác?
 
 Phần lớn trường hợp chúng ta cần sáng tạo quy trình và phương pháp riêng cho con đường chinh phục mục tiêu của mình. Chúng ta cần tạo ra những công cụ riêng mà chưa ai từng nghĩ đến. Tất nhiên cái giải pháp chúng ta nghĩ ra sẽ phù hợp hơn cái chúng ta đã học.
+

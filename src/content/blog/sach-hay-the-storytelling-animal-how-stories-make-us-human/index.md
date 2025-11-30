@@ -3,7 +3,7 @@ title: "Sách Hay: The Storytelling Animal – How Stories Make Us Human"
 description: "Con người bị kiểm soát bởi những câu chuyện như thế nào? Cuốn sách giải mã bản năng kể chuyện len lỏi trong tâm trí, nỗi sợ và khát khao của chúng ta, giúp bạn nhận ra sức mạnh của ngôn từ trong việc định hình cuộc sống và thành công."
 pubDate: "2019-07-06T17:00:00.000Z"
 updatedDate: "2020-02-12T17:00:00.000Z"
-heroImage: "./storytelling-animal-hero.jpg"
+heroImage: /blog-images/sach-hay-the-storytelling-animal-how-stories-make-us-human/storytelling-animal-hero.jpg
 published: true
 category: 'Học'
 tags: ["Học kể truyện","Refine the Craft","Sách Hay"]
@@ -22,4 +22,5 @@ Câu truyện như một sự diễn tập cho những điều chưa xảy ra, n
 
 Đọc để nhận thấy không đọc truyện cho con là một thiệt thòi lớn nhất.
 
-![The Storytelling Animal book](./storytelling-animal-book.jpg)
+![](/blog-images/sach-hay-the-storytelling-animal-how-stories-make-us-human/storytelling-animal-book.jpg)
+
