@@ -11,8 +11,9 @@ heroImage: >-
 category: Học
 tags:
   - Chơi Với Con
-published: false
+published: true
 ---
+
 Cuộc đời giống như một game nhập vai thế giới mở.
 
 Ở đó, không có hướng dẫn chơi chi tiết cho từng người, không có "save point" để con quay lại nếu lỡ đi sai nước cờ quan trọng.
