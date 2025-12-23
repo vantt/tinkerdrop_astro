@@ -1,14 +1,17 @@
 ---
-title: "JavaScript Event-loop, Call Stack and Task Queue explain"
-description: "Xem ví dụ"
-pubDate: "2020-03-16T10:38:36.982Z"
-updatedDate: "2021-03-26T11:23:23.000Z"
-heroImage: /blog-images/javascript-event-loop-call-stack-and-task-queue-explain/event-loop-diagram.png
+title: JavaScript Event-loop, Call Stack and Task Queue explain
+description: Xem ví dụ
+pubDate: 2020-03-16
+updatedDate: 2021-03-26
+heroImage: >-
+  /blog-images/javascript-event-loop-call-stack-and-task-queue-explain/heroImage.png
+category: Học
+tags: []
 published: true
-category: 'Học'
 ---
-
 ![](/blog-images/javascript-event-loop-call-stack-and-task-queue-explain/event-loop-diagram.png)
+
+## Các video giải thích
 
 https://youtu.be/8aGhZQkoFbQ
 
@@ -25,4 +28,3 @@ https://player.vimeo.com/431a1892-7869-4e00-988e-6dafad061ed9
 - [https://nodejs.org/en/docs/guides/dont-block-the-event-loop/](https://nodejs.org/en/docs/guides/dont-block-the-event-loop/)
 - [https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
 - [https://dev.to/mnhattt/kin-trc-x-l-bt-ng-b-trong-nodejs-nnf](https://dev.to/mnhattt/kin-trc-x-l-bt-ng-b-trong-nodejs-nnf)
-
